@@ -10,16 +10,17 @@ const observationsTxt = await readTXT('./gov/noaa/ndbc/latest-observations.txt')
 const activeStations = await readTXT('./gov/noaa/ndbc/active-stations.xml')
 
 const parser = new Parser({
-    // options
+    trimValues: true,
+    reflectAttrs: false
   })
-const root = parser.parse(activeStations.replaceAll(/\'/ig, ''))
+const root = parser.parse(activeStations.replaceAll(/\'/ig, '').replaceAll(/""/ig, '" "'))
 const stationMap = {}
 root.find(['stations', 'station']).forEach((node) => {
     if(node) {
         stationMap[node.getAttr('id')] = {
             lat: parseFloat(node.getAttr('lat')),
             lon: parseFloat(node.getAttr('lon')),
-            elev: parseFloat(node.getAttr('elev')),
+            elev: parseFloat(node.getAttr('elev') || 0),
             name: node.getAttr('name'),
             owner: node.getAttr('owner'),
             pgm: node.getAttr('pgm'),
@@ -61,17 +62,11 @@ const jsonArray = obsArray.map(line => {
             }
         })
         if(stationMap[ret.station_id]) {
-            //ret["station_lat"] = stationMap[ret.station_id].lat
-            //ret["station_lon"] = stationMap[ret.station_id].lon
-            ret["station_elev"] = stationMap[ret.station_id].elev
-            ret["station_name"] = stationMap[ret.station_id].name
-            ret["station_owner"] = stationMap[ret.station_id].owner
-            ret["station_pgm"] = stationMap[ret.station_id].pgm
-            ret["station_type"] = stationMap[ret.station_id].type
-            ret["station_met"] = stationMap[ret.station_id].met
-            ret["station_currents"] = stationMap[ret.station_id].currents
-            ret["station_waterquality"] = stationMap[ret.station_id].waterquality
-            ret["station_dart"] = stationMap[ret.station_id].dart
+            for (const [key, value] of Object.entries(stationMap[ret.station_id])) {
+                if(key != 'lat' && key != 'lon') {
+                    ret["station_"+key] = value
+                }
+            }
         }
         return ret
     }
