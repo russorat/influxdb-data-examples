@@ -21,10 +21,10 @@ jobs:
         uses: githubocto/flat@v2
         with:
           http_url: https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt
-          downloaded_filename: gov/noaa/ndbc/latest-observations.txt
+          downloaded_filename: ./gov/noaa/ndbc/latest-observations.txt
           postprocess: ./gov/noaa/ndbc/postprocess.js
       - name: Fetch data
         uses: githubocto/flat@v2
         with:
           http_url: https://www.ndbc.noaa.gov/activestations.xml
-          downloaded_filename: gov/noaa/ndbc/active-stations.xml
+          downloaded_filename: ./gov/noaa/ndbc/active-stations.xml
