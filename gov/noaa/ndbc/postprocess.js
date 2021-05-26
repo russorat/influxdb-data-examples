@@ -37,9 +37,7 @@ const re = /\s+/
 const latest_columns = "wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_wave_period_sec,avg_wave_period_sec,wave_dir_degt,sea_level_pressure_hpa,air_temp_degc,sea_surface_temp_degc,dewpoint_temp_degc,station_visibility_nmi,pressure_tendency_hpa,water_level_ft".split(",")
 const missing_data_list = "MM,999,9999.0,999.0,99.0,99.00".split(",")
 let obsArray = observationsTxt.split('\n')
-obsArray.shift()
-obsArray.shift()
-const jsonArray = obsArray.map(line => {
+let jsonArray = obsArray.map(line => {
     if (!line.startsWith("#") && line.length != 0) {
         const readings = line.split(re)
         let ret = {
@@ -71,6 +69,8 @@ const jsonArray = obsArray.map(line => {
         return ret
     }
 })
+
+jsonArray = jsonArray.filter(n => n)
 
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = `./gov/noaa/ndbc/latest-observations.json` // name of a new file to be saved
