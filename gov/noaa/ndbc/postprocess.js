@@ -17,7 +17,7 @@ const root = parser.parse(activeStations.replaceAll(/\'/ig, '').replaceAll(/""/i
 const stationMap = {}
 root.find(['stations', 'station']).forEach((node) => {
     if(node) {
-        stationMap[node.getAttr('id')] = {
+        stationMap[node.getAttr('id').toUpperCase()] = {
             lat: parseFloat(node.getAttr('lat')),
             lon: parseFloat(node.getAttr('lon')),
             elev: parseFloat(node.getAttr('elev') || 0),
