@@ -6,8 +6,8 @@ import { readTXT, writeJSON, removeFile } from 'https://deno.land/x/flat@0.0.10/
 import { Parser, unescapeEntity } from 'https://deno.land/x/xmlparser@v0.2.0/mod.ts'
 
 // Step 1: Read the downloaded_filename JSON
-const observationsTxt = await readTXT('latest-observations.txt')
-const activeStations = await readTXT('active-stations.xml')
+const observationsTxt = await readTXT('./gov/noaa/ndbc/latest-observations.txt')
+const activeStations = await readTXT('./gov/noaa/ndbc/active-stations.xml')
 
 const parser = new Parser({
     // options
@@ -78,7 +78,7 @@ const jsonArray = obsArray.map(line => {
 })
 
 // Step 3. Write a new JSON file with our filtered data
-const newFilename = `latest-observations.json` // name of a new file to be saved
+const newFilename = `./gov/noaa/ndbc/latest-observations.json` // name of a new file to be saved
 await writeJSON(newFilename, jsonArray) // create a new JSON file with just the Bitcoin price
 console.log("Wrote a post process file")
 
