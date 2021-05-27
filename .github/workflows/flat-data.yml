@@ -1,4 +1,4 @@
-name: flat-data
+name: fetch-data
 on:
   schedule:
     - cron: "*/5 * * * *"
@@ -8,7 +8,7 @@ on:
       - .github/workflows/flat-data.yml
       - ./gov/noaa/ndbc/postprocess.js
 jobs:
-  scheduled:
+  fetch-data:
     runs-on: ubuntu-latest
     steps:
       - name: Setup deno
@@ -33,4 +33,32 @@ jobs:
         with:
           http_url: http://api.open-notify.org/iss-now.json
           downloaded_filename: ./iss/iss-now.json
-      
+  create-lp-csv:
+    runs-on: ubuntu-latest
+    needs: fetch-data
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.ref }}
+    - name: Create LP and CSV files
+      env:
+        GITHUB_REPO: ${{ github.repository }}
+        GITHUB_BRANCH: ${{ github.ref }}  
+      run: |
+        cd /tmp
+        wget https://dl.influxdata.com/platform/nightlies/influx_nightly_linux_amd64.tar.gz
+        tar xvfz influx_nightly_linux_amd64.tar.gz || true
+        sudo cp influx_nightly_linux_amd64/{influx,influxd} /usr/local/bin/
+        influxd --http-bind-address :8086 --reporting-disabled > /dev/null 2>&1 &
+        until curl -s http://localhost:8086/health; do sleep 1; done
+        influx setup --host http://localhost:8086 -f -b dummy -o influxdata -u ci_user -p password
+        cd $GITHUB_WORKSPACE
+        /usr/local/bin/influx write dryrun -f ./gov/noaa/ndbc/latest-observations.csv --format csv --header "#constant measurement,ndbc" --header "#datatype double,double,double,double,double,double,long,double,double,double,double,double,double,double,tag,double,double,double,tag,tag,tag,tag,string,string,string,string,dateTime:number" > ./gov/noaa/ndbc/latest-observations.lp
+        /usr/local/bin/influx write -f ./gov/noaa/ndbc/latest-observations.lp -b dummy
+        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./gov/noaa/ndbc/latest-observations-annotated.csv
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: Russ Savage
+        author_email: russ@influxdata.com
+        message: 'Updating LP and annotated CSV file'
