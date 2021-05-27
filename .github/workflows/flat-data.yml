@@ -1,11 +1,11 @@
-name: ndbc-data
+name: flat-data
 on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch: {}
   push:
     paths:
-      - .github/workflows/ndbc.yml
+      - .github/workflows/flat-data.yml
       - ./gov/noaa/ndbc/postprocess.js
 jobs:
   scheduled:
@@ -20,11 +20,17 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v2
         with:
+          http_url: https://www.ndbc.noaa.gov/activestations.xml
+          downloaded_filename: ./gov/noaa/ndbc/active-stations.xml
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
           http_url: https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt
           downloaded_filename: ./gov/noaa/ndbc/latest-observations.txt
           postprocess: ./gov/noaa/ndbc/postprocess.js
       - name: Fetch data
         uses: githubocto/flat@v2
         with:
-          http_url: https://www.ndbc.noaa.gov/activestations.xml
-          downloaded_filename: ./gov/noaa/ndbc/active-stations.xml
+          http_url: http://api.open-notify.org/iss-now.json
+          downloaded_filename: ./iss/iss-now.json
+      

@@ -2,7 +2,7 @@
 
 // Helper library written for useful postprocessing tasks with Flat Data
 // Has helper functions for manipulating csv, txt, json, excel, zip, and image files
-import { readTXT, writeJSON, removeFile } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
+import { readTXT, writeJSON, writeTXT, removeFile } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
 import { Parser, unescapeEntity } from 'https://deno.land/x/xmlparser@v0.2.0/mod.ts'
 
 // Step 1: Read the downloaded_filename JSON
@@ -75,7 +75,57 @@ jsonArray = jsonArray.filter(n => n)
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = `./gov/noaa/ndbc/latest-observations.json` // name of a new file to be saved
 await writeJSON(newFilename, jsonArray) // create a new JSON file with just the Bitcoin price
-console.log("Wrote a post process file")
+
+// can we generate a csv? let's try
+let headers = [
+    "wind_dir_degt",
+    "wind_speed_mps",
+    "gust_speed_mps",
+    "significant_wave_height_m",
+    "dominant_wave_period_sec",
+    "avg_wave_period_sec",
+    "wave_dir_degt",
+    "sea_level_pressure_hpa",
+    "air_temp_degc",
+    "sea_surface_temp_degc",
+    "dewpoint_temp_degc",
+    "station_visibility_nmi",
+    "pressure_tendency_hpa",
+    "water_level_ft",
+    "station_id",
+    "lat",
+    "lon",
+    "station_elev",
+    "station_name",
+    "station_owner",
+    "station_pgm",
+    "station_type",
+    "station_met",
+    "station_currents",
+    "station_waterquality",
+    "station_dart",
+    "timestamp"
+]
+let csvArray = [headers.join(',')]
+jsonArray.forEach((obj, index) => {
+    let arr = []
+    let keys = Object.keys(obj)
+    headers.forEach((header) => {
+        if(keys.includes(header)) {
+            if (header !== 'timestamp' && (typeof obj[header] === 'string' || obj[header] instanceof String)) {
+                arr.push('"' + obj[header] + '"')
+            } else {
+                arr.push(obj[header])
+            }
+        } else {
+            arr.push("")
+        }
+    })
+    
+    csvArray.push(arr.join(","))
+})
+
+await writeTXT('./gov/noaa/ndbc/latest-observations.csv', csvArray.join('\r\n')) 
 
 // Optionally delete the original file
 // await removeFile('./btc-price.json') // equivalent to removeFile('btc-price.json')
