@@ -43,4 +43,4 @@ jobs:
       with:
         author_name: Russ Savage
         author_email: russ@influxdata.com
-        message: 'adding new LP file'
+        message: 'Updating LP and annotated CSV file'
