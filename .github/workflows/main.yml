@@ -29,8 +29,10 @@ jobs:
       run: |
         cd /tmp
         wget https://dl.influxdata.com/platform/nightlies/influx_nightly_linux_amd64.tar.gz
-        tar xvfz influx_nightly_linux_amd64.tar.gz
+        tar xvfz influx_nightly_linux_amd64.tar.gz || true
+        echo untarred everything
         sudo cp influx_nightly_linux_amd64/influx /usr/local/bin/
+        echo moved successfully
         cd $GITHUB_WORKSPACE
         /usr/local/bin/influx write dryrun -u ./gov/noaa/ndbc/latest-observations.csv --format csv --header "#constant measurement,ndbc" --header "#datatype double,double,double,double,double,double,long,double,double,double,double,double,double,double,tag,double,double,double,tag,tag,tag,tag,string,string,string,string,dateTime:number" > ./gov/noaa/ndbc/latest-observations.lp
     - name: Commit changes
