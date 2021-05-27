@@ -30,11 +30,14 @@ jobs:
         cd /tmp
         wget https://dl.influxdata.com/platform/nightlies/influx_nightly_linux_amd64.tar.gz
         tar xvfz influx_nightly_linux_amd64.tar.gz || true
-        echo untarred everything
-        sudo cp influx_nightly_linux_amd64/influx /usr/local/bin/
-        echo moved successfully
+        sudo cp influx_nightly_linux_amd64/{influx,influxd} /usr/local/bin/
+        influxd --http-bind-address :8086 --reporting-disabled > /dev/null 2>&1 &
+        until curl -s http://localhost:8086/health; do sleep 1; done
+        influx setup --host http://localhost:8086 -f -b dummy -o influxdata -u ci_user -p password
         cd $GITHUB_WORKSPACE
         /usr/local/bin/influx write dryrun -f ./gov/noaa/ndbc/latest-observations.csv --format csv --header "#constant measurement,ndbc" --header "#datatype double,double,double,double,double,double,long,double,double,double,double,double,double,double,tag,double,double,double,tag,tag,tag,tag,string,string,string,string,dateTime:number" > ./gov/noaa/ndbc/latest-observations.lp
+        /usr/local/bin/influx write -f ./gov/noaa/ndbc/latest-observations.lp -b dummy
+        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./gov/noaa/ndbc/latest-observations-annotated.csv
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
       with:
