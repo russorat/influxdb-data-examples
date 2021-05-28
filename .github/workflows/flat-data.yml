@@ -38,6 +38,7 @@ jobs:
         with:
           http_url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
           downloaded_filename: ./gov/usgs/earthquake/all_week.geojson
+          postprocess: ./gov/usgs/earthquake/postprocess.js
   create-lp-csv:
     runs-on: ubuntu-latest
     needs: fetch-data
