@@ -62,6 +62,10 @@ jobs:
         /usr/local/bin/influx write dryrun -f ./gov/noaa/ndbc/latest-observations.csv --format csv --header "#constant measurement,ndbc" --header "#datatype double,double,double,double,double,double,long,double,double,double,double,double,double,double,tag,double,double,double,tag,tag,tag,tag,string,string,string,string,dateTime:number" > ./gov/noaa/ndbc/latest-observations.lp
         /usr/local/bin/influx write -f ./gov/noaa/ndbc/latest-observations.lp -b dummy
         /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./gov/noaa/ndbc/latest-observations-annotated.csv
+        /usr/local/bin/influx bucket delete -n dummy
+        /usr/local/bin/influx bucket create -n dummy
+        /usr/local/bin/influx write -f ./gov/usgs/earthquake/all_week.lp -b dummy
+        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./gov/usgs/earthquake/all_week-annotated.csv
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
       with:
