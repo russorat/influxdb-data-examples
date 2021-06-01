@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-06-01T14:55:01UTC" count="1438">
+<stations created="2021-06-01T15:55:01UTC" count="1309">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -124,8 +124,8 @@
   <station id="32489" lat="2.998" lon="-79.101" name="Colombia   121NM SW of Buenaventura, Colombia" owner="DIMAR Colombia" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="32st0" lat="-22" lon="-85" elev="0" name="Stratus" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="34420" lat="-35.758" lon="-75.243" name="119NM NW of Concepcion, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41001" lat="34.5775" lon="-72.8279" elev="0" name="EAST HATTERAS - 150 NM East of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41002" lat="29.2161" lon="-74.0136" elev="0" name="SOUTH HATTERAS - 225 NM South of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41001" lat="34.5595" lon="-72.8450" elev="0" name="EAST HATTERAS - 150 NM East of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41002" lat="29.2078" lon="-73.9827" elev="0" name="SOUTH HATTERAS - 225 NM South of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41004" lat="32.501" lon="-79.099" elev="0" name="EDISTO - 41 NM Southeast of Charleston, SC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41008" lat="31.4" lon="-80.866" elev="0" name="GRAYS REEF - 40 NM Southeast of Savannah, GA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41009" lat="28.508" lon="-80.185" elev="0" name="CANAVERAL 20 NM East of Cape Canaveral, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
@@ -143,7 +143,7 @@
   <station id="41043" lat="21.03" lon="-64.79" elev="0" name="NE PUERTO RICO - 170 NM NNE of San Juan, PR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41044" lat="21.582" lon="-58.63" elev="0" name="NE ST MARTIN - 330 NM NE St Martin Is" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41046" lat="23.822" lon="-68.384" elev="0" name="EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="41047" lat="29.2972" lon="-72.7887" elev="0" name="NE BAHAMAS - 350 NM ENE of Nassau, Bahamas" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41047" lat="29.3042" lon="-72.7771" elev="0" name="NE BAHAMAS - 350 NM ENE of Nassau, Bahamas" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41048" lat="31.831" lon="-69.573" elev="0" name="WEST BERMUDA - 240 NM West of Bermuda" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41049" lat="27.49" lon="-62.938" elev="0" name="SOUTH BERMUDA - 300 NM SSE of Bermuda" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41052" lat="18.249" lon="-64.763" elev="0" name="South of St. John, VI" owner="Caribbean Integrated Coastal Ocean Observing System (CarICoos)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
@@ -168,7 +168,7 @@
   <station id="41421" lat="23.414" lon="-63.781" name="NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41425" lat="28.633" lon="-65.65" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="41x01" lat="32.9237" lon="-50.2289" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41x01" lat="32.9238" lon="-50.2262" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42001" lat="25.942" lon="-89.657" elev="0" name="MID GULF - 180 nm South of Southwest Pass, LA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42002" lat="26.055" lon="-93.646" elev="0" name="WEST GULF - 207 NM East of Brownsville, TX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42003" lat="25.925" lon="-85.615" elev="0" name="East GULF - 208 NM West of Naples, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -205,137 +205,8 @@
   <station id="42097" lat="25.701" lon="-83.65" elev="0" name="Pulley Ridge, FL (226)" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42098" lat="27.59" lon="-82.931" elev="0" name="Egmont Channel Entrance, FL (214)" owner="Greater Tampa Bay Marine Advisory Council-PORTS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42099" lat="27.345" lon="-84.275" elev="0" name="Offshore St. Petersburg, FL (144)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42360" lat="26.689" lon="-90.459" elev="0" name="BW Pioneer buoy - C16471 - Walker Ridge 249" owner="Murphy" pgm="Oil and Gas Industry" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42361" lat="27.55" lon="-92.49" elev="0" name="Auger - Garden Banks 426" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42362" lat="27.795" lon="-90.648" elev="0" name="Brutus TLP - Green Canyon 158" owner="Enven Energy Corporation" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42363" lat="28.16" lon="-89.22" elev="0" name="Mars - Mississippi Canyon 807" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42364" lat="29.06" lon="-88.09" elev="0" name="Ram Powell TLP - Viosca Knoll 956" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42365" lat="28.154" lon="-89.104" elev="0" name="Ursa TLP - Mississippi Canyon 809A" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42366" lat="27.122" lon="-91.959" name="Red Hawk SPAR - Garden Banks 877" owner="Kerr-McGee" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42367" lat="28.742" lon="-88.826" name="Matterhorn TLP - Mississippi Canyon 243" owner="Total USA" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42368" lat="27.204" lon="-92.202" name="Magnolia TLP - Garden Banks 783A" owner="W&amp;T Offshore" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42369" lat="27.207" lon="-90.283" elev="0" name="Mad Dog RTMM - Green Canyon 782" owner="BP Inc" pgm="Oil and Gas Industry" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42370" lat="27.322" lon="-90.536" elev="0" name="Holstein Spar- Green Canyon 645" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42372" lat="27.78" lon="-90.518" name="Genesis SPAR - Green Canyon 205A" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42373" lat="27.354" lon="-94.625" name="Boomvang - East Breaks 643" owner="Kerr-McGee" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42374" lat="28.866" lon="-88.056" elev="0" name="Horn Mountain SPAR - Mississippi Canyon 126 and 127" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42375" lat="28.521" lon="-88.289" elev="0" name="Na Kika FPU - Mississippi Canyon 474" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42376" lat="29.108" lon="-87.944" elev="0" name="Marlin TLP - Viosca Knoll 915" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42377" lat="27.293" lon="-90.968" name="Constitution Truss Spar - Green Canyon 680" owner="Kerr-McGee" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42379" lat="27.362" lon="-90.181" name="Marco Polo TLP - Green Canyon 608" owner="Anadarko" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42380" lat="28.209" lon="-88.737" name="Devil's Tower SPAR - Mississippi Canyon 773" owner="Williams" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42381" lat="28.221" lon="-89.615" name="Gomez Hub (ATP Innovator) - Mississippi Canyon 711A" owner="ATP" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42382" lat="27.304" lon="-93.538" name="Gunnison - Garden Banks 668" owner="Kerr-McGee" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42383" lat="27.37" lon="-89.924" name="Neptune TLP - Green Canyon 613" owner="BHP" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42384" lat="27.993" lon="-90.326" name="Prince TLP - Ewing Bank 1003" owner="Enven Energy Corporation" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42385" lat="28.34" lon="-88.266" name="Blind Faith Semisub - Mississippi Canyon 696" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42386" lat="27.326" lon="-90.714" name="Tahiti Spar - Green Canyon 641" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42387" lat="28.267" lon="-88.399" name="Thunder Hawk FPU - Mississippi Canyon 734" owner="Murphy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42388" lat="27.73" lon="-91.109" name="Helix Producer 1 - Green Canyon 237" owner="Helix" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42390" lat="26.129" lon="-94.898" elev="0" name="Perdido - Alaminos Canyon 857" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42391" lat="28.034" lon="-89.101" name="Telemark Hub (ATP Titan) - Mississippi Canyon 941" owner="ATP" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42392" lat="27.196" lon="-90.027" elev="0" name="Atlantis Semisub - Green Canyon 787" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42393" lat="27.301" lon="-90.135" name="Shenzi TLP - Green Canyon 653" owner="BHP" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42394" lat="28.157" lon="-89.24" elev="0" name="Olympus TLP - Mississippi Canyon 807" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42395" lat="26.404" lon="-90.792" elev="0" name="Shell Alcyone Buoy - C16522 - Walker Ridge 552" owner="Shell Oil" pgm="Oil and Gas Industry" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42396" lat="26.235" lon="-91.261" name="Jack &amp; St Malo FPU - Walker Ridge Block 758" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42397" lat="28.755" lon="-88.267" name="Delta House FPU - Mississippi Canyon 254" owner="LLOG" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42398" lat="26.132" lon="-92.04" name="Lucius SPAR - Keathley Canyon 875" owner="Anadarko" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42399" lat="27.111" lon="-92.04" name="Heidelberg - Green Canyon 860" owner="Anadarko" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42400" lat="28.574" lon="-87.934" name="Shell Appomattox - MC 437" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42401" lat="27.509" lon="-90.556" name="Stampede TLP - Green Canyon 468" owner="Amerada Hess" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42402" lat="26.981" lon="-90.533" name="Big Foot - Walker Ridge 29" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42407" lat="15.229" lon="-68.188" name="SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="42409" lat="25.9" lon="-89.287" name="GULF OF MEXICO - 247 NM South of New Orleans, LA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="42851" lat="27.57" lon="-92.395" name="Noble Globetrotter I - Garden Banks 427" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42852" lat="28.501" lon="-89.769" name="Who Dat FPS - Mississippi Canyon 547" owner="LLOG" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42853" lat="27.461" lon="-93.569" name="West Capricorn - Garden Banks 492" owner="LLOG" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42854" lat="27.768" lon="-90.798" name="Atwood Condor - Green Canyon 199" owner="Noble Energy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42855" lat="28.201" lon="-88.766" name="ENSCO 8506 - Mississippi Canyon 772" owner="ENI Petroleum" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42856" lat="26.52" lon="-90.531" name="Titanium Explorer - Walker Ridge 425" owner="Petrobras" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42857" lat="27.944" lon="-90.879" name="Noble Don Taylor - GC 21" owner="Talos Energy LLC" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42858" lat="27.962" lon="-89.048" name="Stena IceMAX - Atwater Valley 18" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42859" lat="27.514" lon="-90.376" name="Discoverer 534 (D534) - Green Canyon 516" owner="Helix" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42860" lat="27.937" lon="-90.01" name="Atwood Advantage - Mississippi Canyon 40" owner="Noble Energy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42861" lat="28.369" lon="-87.924" name="Deepwater Nautilus -  Mississippi Canyon 657" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42862" lat="27.57" lon="-92.396" name="Noble Jim Thompson - Garden Banks 427" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42863" lat="28.962" lon="-88.696" name="Ocean Victory - Mississippi Canyon 26" owner="Stone Energy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42864" lat="28.003" lon="-89.013" name="Thalassa - Mississippi Canyon 943" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42865" lat="28.466" lon="-88.294" name="BlackHornet - MC518" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42866" lat="28.491" lon="-88.997" name="Transocean Amirante - Mississippi Canyon 460" owner="ENI Petroleum" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42867" lat="28.183" lon="-88.629" name="Discoverer Deep Seas - Mississippi Canyon 819" owner="Murphy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42868" lat="28.214" lon="-88.519" name="Discoverer Enterprise - Mississippi Canyon 777" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42869" lat="26.995" lon="-92.23" name="Pacific Khamsin - Garden Banks 1003" owner="Total USA" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42870" lat="24.354" lon="-96.267" name="La Muralla - Chimalli - Perdido Block 3" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42871" lat="27.331" lon="-89.868" name="GSF CR Luigs - Atwater Valley 617" owner="BHP" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42873" lat="26.453" lon="-90.77" name="Pontus - Walker Ridge 508" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42874" lat="27.059" lon="-91.199" name="Deepwater Asgard - Greeni Canyon 895" owner="Beacon Offshore" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42875" lat="28.154" lon="-89.836" name="Noble Amos Runner - Mississippi Canyon 794" owner="LLOG" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42876" lat="26.298" lon="-91.093" name="Deepwater Conqueror - Walker Ridge 634" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42877" lat="28.18" lon="-89.29" name="Cajun Express - Mississippi Canyon 762" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42878" lat="28.246" lon="-88.928" name="Noble Paul Romano - Mississippi Canyon 725" owner="Amerada Hess" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42879" lat="28.274" lon="-88.839" name="Ocean BlackRhino - MC683" owner="Diamond Offshore" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42880" lat="27.146" lon="-90.319" name="West Auriga - Green Canyon 825" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42881" lat="27.554" lon="-88.361" name="Transocean Marianas - Atwater Valley 428" owner="ENI Petroleum" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42882" lat="28.185" lon="-89.131" name="Noble Globetrotter II - MC765" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42883" lat="26.515" lon="-94.212" name="Maersk Valiant - Alaminos Canyon 475" owner="ConocoPhillips" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42884" lat="28.893" lon="-88.104" name="Ocean Blackhawk - MC081" owner="Anadarko" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42885" lat="28.249" lon="-88.828" name="GSF Development Driller II - Mississippi Canyon 727 #2" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42886" lat="28.17" lon="-89.24" name="Discoverer Spirit - Mississippi Canyon 762" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42887" lat="28.191" lon="-88.496" elev="0" name="Thunder Horse Semisub - Mississippi Canyon 778" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42888" lat="26.305" lon="-91.073" name="Rowan Relentless - Walker Ridge 678" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42889" lat="28.394" lon="-89.465" name="Medusa Spar - Mississippi Canyon 582A" owner="Murphy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42890" lat="27.625" lon="-90.441" name="Front Runner SPAR - Green Canyon 338A" owner="Murphy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42891" lat="27.224" lon="-90.014" name="West Vela - Green Canyon 743" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42892" lat="27.599" lon="-92.298" name="Ocean Baroness - Garden Banks 386" owner="Amerada Hess" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42893" lat="27.146" lon="-90.319" name="ENSCO DS-3 - Green Canyon 825" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42894" lat="28.77" lon="-88.834" name="Noble Lorris Bouzigard - Mississippi Canyon 199" owner="LLOG" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42895" lat="28.273" lon="-88.662" name="Island Performer - Mississippi Canyon 730" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42896" lat="28.13" lon="-89.999" name="Sevan Louisiana - Ewing Banks 833" owner="Walter Oil and Gas" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42897" lat="27.355" lon="-89.797" name="GSF Development Driller I - Atwater Valley 575" owner="BHP" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42898" lat="27.026" lon="-92.237" name="Rowan Reliance - Keathley Canyon 129" owner="Cobalt Energy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42899" lat="26.066" lon="-92.06" name="Ocean Endeavor - Keathley Canyon 919" owner="ExxonMobil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42900" lat="28.36" lon="-89.423" name="Ocean Saratoga - Mississippi Canyon 583" owner="Walter Oil and Gas" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42901" lat="28.221" lon="-88.533" name="Q5000 - Mississippi Canyon 777" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42902" lat="28.622" lon="-87.984" name="Deepwater Proteus - Mississippi Canyon 392" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42903" lat="28.845" lon="-87.843" name="Valaris Renaissance - De Soto Canyon 134" owner="Murphy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42904" lat="28.085" lon="-87.986" name="Independence Hub -  Mississippi Canyon 920" owner="Anadarko" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42905" lat="26.726" lon="-90.508" name="P10,000 - Walker Ridge 249" owner="Petrobras" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42906" lat="27.032" lon="-92.074" name="Poseidon - GB962" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42907" lat="27.128" lon="-90.342" name="Ocean BlackLion - Green Canyon 825" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42908" lat="26.909" lon="-93.305" name="West Sirius - Keathley Canyon 57" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42909" lat="28.201" lon="-88.752" name="ENSCO 8500 - Mississippi Canyon 772" owner="ENI Petroleum" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42910" lat="27.847" lon="-90.719" name="Noble Driller - Green Canyon 113" owner="Marubeni Oil and Gas Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42911" lat="27.464" lon="-92.433" name="Ocean Monarch - Garden Banks 515 #3" owner="Marathon Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42912" lat="27.233" lon="-91.143" name="Discoverer Clear Leader - Garden Banks 720" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42913" lat="28.509" lon="-88.031" name="ENSCO 8501 - Mississippi Canyon 479" owner="Noble Energy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42914" lat="26.806" lon="-90.567" name="Discoverer Americas - Walker Ridge 160" owner="Statoil Hydro" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42915" lat="28.01" lon="-89.043" name="Maersk Developer - Mississippi Canyon 942" owner="Maersk Drilling USA" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42916" lat="28.445" lon="-88.277" name="Development Driller III -  Mississippi Canyon 562" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42917" lat="27.691" lon="-91.114" name="Discoverer Inspiration - Green Canyon 280" owner="Talos Energy LLC" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42918" lat="27.691" lon="-91.114" name="Noble Danny Adkins - Green Canyon 280" owner="Talos Energy LLC" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42919" lat="28.26" lon="-88.885" name="Stena Forth - Mississippi Canyon 725" owner="Amerada Hess" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42920" lat="26.865" lon="-93.661" name="ENSCO DS-4 - Keathley Canyon 93" owner="BP Inc" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42921" lat="28.354" lon="-87.82" name="Deepwater Pathfinder - DeSoto Canyon 618 #1" owner="ENI Petroleum" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42922" lat="26.449" lon="-90.784" name="Noble Jim Day - Walker Ridge 508" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42923" lat="27.747" lon="-91.088" name="ENSCO 8502 - Green Canyon 237" owner="Talos Energy LLC" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42924" lat="28.243" lon="-88.827" name="ENSCO 8503 - Mississippi Canyon 727" owner="Kosmos Energy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42925" lat="28.301" lon="-88.127" name="ENSCO DS-5 - Mississippi Canyon 697" owner="Murphy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42926" lat="26.201" lon="-92.871" name="Discoverer India - Keathley Canyon 770" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42927" lat="28.418" lon="-88.032" name="Noble Bully I - Mississippi Canyon 567" owner="Shell Oil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42928" lat="27.59" lon="-90.311" name="ENSCO 8505 - GC385" owner="ENI Petroleum" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42929" lat="26.949" lon="-93.442" name="Pacific Santa Ana -  Keathley Canyon 10" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42930" lat="26.906" lon="-94.906" name="Deepwater Champion - Alaminos Canyon 65" owner="ExxonMobil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42931" lat="27.601" lon="-91.354" name="Noble Bob Douglas - Green Canyon 364" owner="ExxonMobil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42932" lat="27.317" lon="-90.111" name="Deepwater Invictus - Green Canyon 653" owner="BHP" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42933" lat="27.333" lon="-90.599" name="Noble Sam Croft - Green Canyon 643" owner="Freeport-McMoRan" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42934" lat="28.308" lon="-87.318" name="Pacific Sharav - Mississippi Canyon 700" owner="Chevron" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42935" lat="28.235" lon="-88.995" name="Tubular Bells Spar - Green Canyon 724" owner="Amerada Hess" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42936" lat="27.934" lon="-89.961" name="Rowan Resolute - Viosca Knoll MC40" owner="Fieldwood Energy" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42937" lat="28.784" lon="-88.235" name="Maersk Viking - Mississippi Canyon 211" owner="ExxonMobil" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42938" lat="28.257" lon="-89.274" name="Ocean Onyx - Mississippi Canyon 674" owner="Apache Deepwater LLC" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42939" lat="28.859" lon="-88.044" name="Noble Tom Madden - Mississippi Canyon 84" owner="Freeport-McMoRan" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42940" lat="28.079" lon="-89.982" name="West Neptune - EW877" owner="LLOG" pgm="Oil and Gas Industry" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.045" lon="-106.967" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -775,7 +646,7 @@
   <station id="apxa2" lat="59.77" lon="-151.868" elev="5" name="Anchor Point, Kachemak Bay Reserve, AK" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apxf1" lat="29.769" lon="-84.881" elev="0.6" name="East Bay, Apalachicola Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="arop4" lat="18.48" lon="-66.702" name="9757809 - Arecibo, PR" owner="Puerto Rico Seismic Network" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="arpf1" lat="28.433" lon="-82.667" elev="0" name="APK - Aripeka, FL" owner="COMPS (University of South Florida)" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="arpf1" lat="28.433" lon="-82.667" elev="0" name="APK - Aripeka, FL" owner="COMPS (University of South Florida)" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="asto3" lat="46.207" lon="-123.768" elev="3.6" name="9439040 - Astoria, OR" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="atgm1" lat="44.392" lon="-68.204" elev="3.4" name="8413320 - Bar Harbor, ME" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="atka2" lat="52.232" lon="-174.173" elev="4.4" name="9461710 - Atka, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
