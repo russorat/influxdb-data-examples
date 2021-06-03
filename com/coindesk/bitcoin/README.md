@@ -1,0 +1,1 @@
+“Powered by CoinDesk” - https://www.coindesk.com/price/bitcoin
