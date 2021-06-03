@@ -72,6 +72,10 @@ jobs:
         /usr/local/bin/influx bucket create -n dummy
         /usr/local/bin/influx write -f ./gov/usgs/earthquake/all_week.lp -b dummy
         /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./gov/usgs/earthquake/all_week-annotated.csv
+        /usr/local/bin/influx bucket delete -n dummy
+        /usr/local/bin/influx bucket create -n dummy
+        /usr/local/bin/influx write -f ./com/coindesk/bitcoin/currentprice.lp -b dummy
+        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./com/coindesk/bitcoin/currentprice-annotated.csv
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
       with:
