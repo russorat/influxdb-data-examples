@@ -39,6 +39,11 @@ jobs:
           http_url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
           downloaded_filename: ./gov/usgs/earthquake/all_week.geojson
           postprocess: ./gov/usgs/earthquake/postprocess.js
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://api.coindesk.com/v1/bpi/currentprice.json
+          downloaded_filename: ./com/coindesk/bitcoin/currentprice.json
   create-lp-csv:
     runs-on: ubuntu-latest
     needs: fetch-data
