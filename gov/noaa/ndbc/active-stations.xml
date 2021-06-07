@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-06-07T23:05:01UTC" count="1312">
+<stations created="2021-06-07T23:55:01UTC" count="1312">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -124,7 +124,7 @@
   <station id="32489" lat="2.998" lon="-79.101" name="Colombia   121NM SW of Buenaventura, Colombia" owner="DIMAR Colombia" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="32st0" lat="-22" lon="-85" elev="0" name="Stratus" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="34420" lat="-35.758" lon="-75.243" name="119NM NW of Concepcion, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41001" lat="34.0931" lon="-72.0655" elev="0" name="EAST HATTERAS - 150 NM East of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41001" lat="34.1225" lon="-72.0399" elev="0" name="EAST HATTERAS - 150 NM East of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41002" lat="31.989" lon="-74.962" elev="0" name="SOUTH HATTERAS - 225 NM South of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41004" lat="32.501" lon="-79.099" elev="0" name="EDISTO - 41 NM Southeast of Charleston, SC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41008" lat="31.4" lon="-80.866" elev="0" name="GRAYS REEF - 40 NM Southeast of Savannah, GA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -169,7 +169,7 @@
   <station id="41425" lat="28.633" lon="-65.65" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41d21" lat="23.38" lon="-64.112" name="Adrift buoy from 41421" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="41x01" lat="32.7802" lon="-49.7136" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41x01" lat="32.7786" lon="-49.7080" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42001" lat="25.942" lon="-89.657" elev="0" name="MID GULF - 180 nm South of Southwest Pass, LA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42002" lat="26.055" lon="-93.646" elev="0" name="WEST GULF - 207 NM East of Brownsville, TX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42003" lat="25.925" lon="-85.615" elev="0" name="East GULF - 208 NM West of Naples, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -254,7 +254,7 @@
   <station id="44075" lat="40.363" lon="-70.883" elev="0" name="OOI Pioneer Inshore Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44076" lat="40.137" lon="-70.775" elev="0" name="OOI Pioneer Central Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44077" lat="39.94" lon="-70.883" elev="0" name="OOI Pioneer Offshore Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="44078" lat="59.94" lon="-39.52" elev="0" name="OOI Irminger Sea Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="44078" lat="59.94" lon="-39.52" elev="0" name="OOI Irminger Sea Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44086" lat="36.001" lon="-75.421" elev="0" name="Nags Head, NC (243)" owner="UNC Coastal Studies Institute" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44087" lat="37.025" lon="-76.151" elev="0" name="Thimble Shoal, VA (240)" owner="U.S. Navy" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44088" lat="36.611" lon="-74.841" elev="0" name="Virginia Beach Offshore, VA (171)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
@@ -272,7 +272,7 @@
   <station id="44258" lat="44.5" lon="-63.4" elev="0" name="Halifax Harbour" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44402" lat="39.289" lon="-70.639" elev="0" name="SOUTHEAST BLOCK CANYON - 130 NM SE of Fire Island, NY" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44403" lat="41.904" lon="-61.655" elev="0" name="SABLE ISLAND BANK - 437 NM E of Boston, MA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="44488" lat="45.44" lon="-60.95" elev="0" name="East of Chedabucto Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="44488" lat="45.44" lon="-60.95" elev="0" name="East of Chedabucto Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44489" lat="45.49" lon="-61.14" elev="0" name="West Chedabucto Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44490" lat="44.66" lon="-66.37" elev="0" name="West Bay of Fundy" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45001" lat="48.061" lon="-87.793" elev="183" name="MID SUPERIOR- 60 NM North Northeast Hancock, MI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -296,12 +296,12 @@
   <station id="45028" lat="46.814" lon="-91.829" elev="183" name="Western Lake Superior" owner="University of Minnesota, Duluth" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45029" lat="42.9" lon="-86.272" elev="176" name="Holland Buoy, MI" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45132" lat="42.46" lon="-81.22" elev="174" name="Port Stanley" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="45135" lat="43.78" lon="-76.87" elev="75" name="Prince Edward Pt" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="45135" lat="43.78" lon="-76.87" elev="75" name="Prince Edward Pt" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45136" lat="48.54" lon="-86.95" elev="183" name="Slate Island" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45137" lat="45.54" lon="-81.02" elev="177" name="Georgian Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45138" lat="49.54" lon="-65.71" elev="0" name="Mont Louis" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45139" lat="43.25" lon="-79.53" elev="75" name="West Lake Ontario - Grimsby" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45140" lat="50.8" lon="-96.73" elev="217" name="Lake Winnipeg S. Basin" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="45139" lat="43.25" lon="-79.53" elev="75" name="West Lake Ontario - Grimsby" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="45140" lat="50.8" lon="-96.73" elev="217" name="Lake Winnipeg S. Basin" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45141" lat="61.18" lon="-115.31" elev="156" name="Great Slave Lake" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45142" lat="42.74" lon="-79.29" elev="174" name="Port Colborne" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45143" lat="44.94" lon="-80.627" elev="177" name="South Georgian Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -409,9 +409,9 @@
   <station id="46127" lat="46.215" lon="-124.063" elev="0" name="SATURN Offshore Station #10, Columbia River, South Jetty, OR" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46128" lat="43.292" lon="-124.538" elev="0" name="Buoy CB-06 - West of Coos Bay, OR" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="46131" lat="49.91" lon="-124.98" elev="0" name="Sentry Shoal" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46132" lat="49.78" lon="-127.89" elev="0" name="South Brooks" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46132" lat="49.78" lon="-127.89" elev="0" name="South Brooks" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46145" lat="54.37" lon="-132.42" elev="0" name="Central Dixon Entrance Buoy" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46146" lat="49.34" lon="-123.73" elev="0" name="Halibut Bank" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46146" lat="49.34" lon="-123.73" elev="0" name="Halibut Bank" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46147" lat="51.83" lon="-131.22" elev="0" name="South Moresby" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46181" lat="53.83" lon="-128.83" elev="0" name="Nanakwa Shoal" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46183" lat="53.62" lon="-131.1" elev="0" name="North Hecate Strait" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -456,7 +456,7 @@
   <station id="46268" lat="34.022" lon="-118.578" elev="0" name="Topanga Nearshore, CA (103)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46269" lat="36.934" lon="-122.034" elev="0" name="Point Santa Cruz, CA (254)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46303" lat="49.02" lon="-123.43" elev="0" name="Southern Georgia Strait" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46304" lat="49.3" lon="-123.36" elev="0" name="Entrance To English Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46304" lat="49.3" lon="-123.36" elev="0" name="Entrance To English Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46402" lat="50.978" lon="-163.948" name=" South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46403" lat="52.663" lon="-156.778" name="SOUTHEAST SHUMAGIN ISLAND - 186 NM SE of Shumagin Is, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46404" lat="45.848" lon="-128.775" name="WEST ASTORIA - 230 NM West of Astoria, OR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -1006,7 +1006,7 @@
   <station id="mrcp1" lat="39.809" lon="-75.415" elev="2.4" name="8540433 - Marcus Hook, PA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mrho1" lat="41.544" lon="-82.731" elev="176" name="9063079 - Marblehead, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mrka2" lat="61.082" lon="-146.662" elev="0" name="Middle Rock Light, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="mrna2" lat="58.198" lon="-134.257" elev="3" name="Marmion Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="mrna2" lat="58.198" lon="-134.257" elev="3" name="Marmion Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mros1" lat="33.656" lon="-78.916" elev="4.1" name="8661070 - Springmaid Pier, SC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mrsl1" lat="29.441" lon="-92.061" elev="0" name="Marsh Island, LA / CSI03" owner="LSU CSI" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mrya2" lat="55.099" lon="-131.182" elev="4" name="Mary Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
