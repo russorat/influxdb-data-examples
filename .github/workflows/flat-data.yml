@@ -52,18 +52,19 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref: ${{ github.ref }}
+    - name: Setup InfluxDB
+      uses: russorat/influxdb-action@v1
+      with:
+        influxdb_version: latest
+        influxdb_org: influxdata
+        influxdb_user: ci_user
+        influxdb_password: password
+        influxdb_bucket: dummy
     - name: Create LP and CSV files
       env:
         GITHUB_REPO: ${{ github.repository }}
         GITHUB_BRANCH: ${{ github.ref }}  
       run: |
-        cd /tmp
-        wget https://dl.influxdata.com/platform/nightlies/influx_nightly_linux_amd64.tar.gz
-        tar xvfz influx_nightly_linux_amd64.tar.gz || true
-        sudo cp influx_nightly_linux_amd64/{influx,influxd} /usr/local/bin/
-        influxd --http-bind-address :8086 --reporting-disabled > /dev/null 2>&1 &
-        until curl -s http://localhost:8086/health; do sleep 1; done
-        influx setup --host http://localhost:8086 -f -b dummy -o influxdata -u ci_user -p password
         cd $GITHUB_WORKSPACE
         /usr/local/bin/influx write dryrun -f ./gov/noaa/ndbc/latest-observations.csv --format csv --header "#constant measurement,ndbc" --header "#datatype double,double,double,double,double,double,long,double,double,double,double,double,double,double,tag,double,double,double,tag,tag,tag,tag,string,string,string,string,dateTime:number" > ./gov/noaa/ndbc/latest-observations.lp
         /usr/local/bin/influx write -f ./gov/noaa/ndbc/latest-observations.lp -b dummy
