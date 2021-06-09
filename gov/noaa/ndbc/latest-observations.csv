@@ -320,7 +320,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 100,7.2,9.8,,,,,1015.2,,28.4,32.2,,,,"BABT2",27.297,-97.405,0,"8776604 - Baffin Bay, TX","TCOON","IOOS Partners","fixed","y","n","n","n",1623241080000000000
 ,,,,,,,1015.4,,27.5,,,,,"BARA9",17.591,-61.821,1.3,"9761115 - Barbuda, AG","NOS","NOS/CO-OPS","fixed","y","n","n","n",1623241080000000000
 ,,,,,,,1014.2,,26,19.3,,,,"BATN6",40.701,-74.014,2,"8518750 - The Battery, NY","NOS","NOS/CO-OPS","fixed","y","n","n","n",1623241080000000000
-300,4.1,6.2,,,,,,,,,,,,"BAXC1",33.766,-118.24,0,"9410691 - Los Angeles Badger Avenue Bridge","NOAA NOS PORTS","NOS/CO-OPS","fixed","n","n","n","n",1623240720000000000
+300,4.1,6.2,,,,,,,,,,,,"BAXC1",33.766,-118.24,0,"9410691 - Los Angeles Badger Avenue Bridge","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1623240720000000000
 250,2.1,3.1,,,,,1014.6,,30.6,23.1,,,,"BDRN4",40.082,-74.87,2.2,"8539094 - Burlington, Delaware River, NJ","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1623238560000000000
 ,,,,,,,1014.6,,30.8,22.3,,,,"BDSP1",39.98,-75.079,0,"8546252 - Bridesburg, PA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1623241080000000000
 ,,,,,,,,,,29.7,,,-0.03,"BDVF1",25.478,-80.989,0,"Broad River, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1623240000000000000
@@ -656,7 +656,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 70,2.6,,,,,,1019,-1,16.7,,12.3,,,"PKBW3",46.672,-92.136,189,"Pokegama Bay, Lake Superior Reserve, WI","National Estuarine Research Reserve System","NERRS","fixed","y","n","n","n",1623240000000000000
 ,,,,,,,,,,29.6,,,-0.82,"PKYF1",24.918,-80.747,0,"Peterson Key, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1623240000000000000
 ,0,0.5,,,,,1015.8,,13.3,8.7,,,,"PLXA2",56.247,-134.647,3.8,"9451054 - Port Alexander, AK","NOS","NOS/CO-OPS","fixed","y","n","n","n",1623240720000000000
-,,,,,,,1019.9,,28.5,31.3,,,,"PMAF1",27.638,-82.562,2.4,"8726384 - Port Manatee, FL","NOAA NOS PORTS","NOS/CO-OPS","fixed","n","n","n","n",1623240720000000000
+,,,,,,,1019.9,,28.5,31.3,,,,"PMAF1",27.638,-82.562,2.4,"8726384 - Port Manatee, FL","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1623240720000000000
 ,,,,,,,1015.4,,29.7,30.2,,,,"PMNT2",26.559,-97.424,0,"8778490 - Port Mansfield, TX","TCOON","IOOS Partners","fixed","y","n","n","n",1623241080000000000
 30,9.8,11.3,,,,,1018.3,,11.9,,,,,"PNGW3",46.792,-91.386,184,"Port Wing, WI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1623238800000000000
 80,9.8,12.4,,,,,1018.5,,21.1,13.6,,,,"PNLM4",45.968,-85.869,179,"9087096 - Port Inland, MI","NOS","NOS/CO-OPS","fixed","y","n","n","n",1623241080000000000
