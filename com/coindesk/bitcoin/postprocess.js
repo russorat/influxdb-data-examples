@@ -2,7 +2,8 @@
 
 // Helper library written for useful postprocessing tasks with Flat Data
 // Has helper functions for manipulating csv, txt, json, excel, zip, and image files
-import { readJSON, writeTXT } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
+import { readJSON } from 'https://deno.land/x/flat@0.0.10/src/json.ts'
+import { writeTXT } from 'https://deno.land/x/flat@0.0.10/src/txt.ts'
 import { parse } from 'https://deno.land/std/datetime/mod.ts'
 
 function createEscaper(characters, replacements) {
