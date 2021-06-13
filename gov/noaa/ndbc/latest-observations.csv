@@ -14,9 +14,9 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 50,2,,,,,,,,21.9,22,,,,"22107",33.08,126.03,0,"","Korean Meteorological Administration","International Partners","buoy","y","n","n","n",1623589200000000000
 280,1,,,,,,,,16.9,18.6,,,,"22108",36.25,125.75,0,"","Korean Meteorological Administration","International Partners","buoy","y","n","n","n",1623589200000000000
 145,7.4,8.9,,,,,,,28,,,,,"23017",-4,67,0,"","Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction","International Partners","buoy","y","n","n","n",1623585600000000000
-41,3.3,,,,,,,,27.4,,,,,"31003",-8,-30,0,"Para?ba","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","n","n","n","n",1623589200000000000
-190,3.1,,,,,,,,26,27.8,,,,"31004",-14,-32,0,"Salvador","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","n","n","n","n",1623589200000000000
-181,8.1,,,,,,1016.6,,,,,,,"31005",-19,-34,0,"Espirito Santo","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","n","n","n","n",1623589200000000000
+41,3.3,,,,,,,,27.4,,,,,"31003",-8,-30,0,"Para?ba","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1623589200000000000
+190,3.1,,,,,,,,26,27.8,,,,"31004",-14,-32,0,"Salvador","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1623589200000000000
+181,8.1,,,,,,1016.6,,,,,,,"31005",-19,-34,0,"Espirito Santo","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1623589200000000000
 159,2,2.8,,,,,,,28.6,,,,,"31006",4,-23,0,"NE Extension","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1623585600000000000
 86,4.7,5.3,,,,,1013.8,,26.6,27.2,,,,"31007",0,-23,0,"Jazz","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1623585600000000000
 20,4,,,,,,1015,,16.8,20.1,13.1,,,"32ST0",-22,-85,0,"Stratus","Woods Hole Oceanographic Institution","IOOS Partners","fixed","y","n","y","n",1623587400000000000
