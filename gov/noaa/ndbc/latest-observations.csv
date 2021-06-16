@@ -409,7 +409,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 260,1.5,2.1,,,,,1022.7,,10.3,,7.8,,,"CSPA2",58.199,-136.64,25,"Cape Spencer, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1623827400000000000
 ,,,,,,,,,,28.3,,,-0.09,"CWAF1",25.297,-81.013,0,"Clear Water Pass, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1623819600000000000
 220,4.1,5.7,,,,,1016.9,1.2,27.8,31.4,,,,"CWBF1",27.978,-82.832,1.3,"8726724 - Clearwater Beach, FL","NOS","NOS/CO-OPS","fixed","y","n","n","n",1623826800000000000
-50,1.5,,,,,,,,11.8,,5.9,,,"CWCI",47.334,-85.833,163,"Caribou Island","Environment and Climate Change Canada","International Partners","fixed","n","n","n","n",1623823200000000000
+50,1.5,,,,,,,,11.8,,5.9,,,"CWCI",47.334,-85.833,163,"Caribou Island","Environment and Climate Change Canada","International Partners","fixed","y","n","n","n",1623823200000000000
 30,3.1,3.6,,,,,1017.5,0.8,14.8,,,,,"DBLN6",42.494,-79.354,182.9,"Dunkirk, NY","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1623826800000000000
 340,1.5,3.1,,,,,1012.5,0.9,21,,,,,"DELD1",39.582,-75.589,2.3,"8551762 - Delaware City, DE","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1623826800000000000
 ,0,0.5,,,,,1027.8,0,13.5,,,,,"DESW1",47.675,-124.485,21.3,"Destruction Island, WA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1623826800000000000
@@ -509,7 +509,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,0,0.5,,,,,1018.2,1.2,8.4,7.9,,,,"KDAA2",57.731,-152.511,4.8,"9457292 - Kodiak Island, AK","NOS","NOS/CO-OPS","fixed","y","n","n","n",1623826800000000000
 360,4.6,,,,,,,,29,,26,7.8,,"KDLP",29.121,-89.547,0,"West Delta 27A (AngloSuisse Offshore Partners)","Federal Aviation Administration","Marine METAR","oilrig","n","n","n","n",1623828900000000000
 120,1,2.1,,,,,1024.8,0.6,11.6,12.5,,,,"KECA2",55.331,-131.625,4.6,"9450460 - Ketchikan, AK","NOS","NOS/CO-OPS","fixed","y","n","n","n",1623826800000000000
-50,4.1,,,,,,,,32,,22,8.7,,"KEMK",27.819,-94.323,0,"East Breaks 165 (SandRidge Energy)","Federal Aviation Administration","Marine METAR","oilrig","n","n","n","n",1623828900000000000
+50,4.1,,,,,,,,32,,22,8.7,,"KEMK",27.819,-94.323,0,"East Breaks 165 (SandRidge Energy)","Federal Aviation Administration","Marine METAR","oilrig","y","n","n","n",1623828900000000000
 ,,,,,,,1022.5,,,,,,,"KEXA2",55.352,-131.684,3.7,"Ketchikan Harbor, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1623828720000000000
 20,7.2,11.3,,,,,1012.1,0,7.6,7.4,,,,"KGCA2",55.062,-162.327,3.6,"9459881 - King Cove, AK","NOS","NOS/CO-OPS","fixed","y","n","n","n",1623826800000000000
 70,5.7,,,,,,,,28,,25,8.7,,"KGHB",27.84,-91.988,0,"Garden Banks 172 / Salsa (Shell E &amp; P)","Federal Aviation Administration","Marine METAR","oilrig","n","n","n","n",1623828900000000000
