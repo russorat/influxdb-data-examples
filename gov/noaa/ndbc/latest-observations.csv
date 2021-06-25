@@ -798,7 +798,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,,,,,1018.1,,,,,,,"TLBO3",45.555,-123.919,0,"9437540 - Garibaldi, Tillamook Bay, OR","NOS","NOS/CO-OPS","fixed","y","n","n","n",1624600440000000000
 ,,,,,,,1013.7,,28.3,,26.9,5.9,,"TLVT2",27.819,-97.454,2,"8775285 - Tule Lake Visibility, TX","NOAA NOS PORTS","NOS/CO-OPS","other","y","n","n","n",1624600440000000000
 ,0,0,,,,,1017.8,,13.1,16.4,,,,"TOKW1",46.707,-123.967,3,"9440910 - Toke Point, WA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1624600440000000000
-40,2.1,3.1,,,,,,,,,,,,"TPAF1",27.933,-82.433,0,"8726694 - TPA Cruise Terminal 2, Tampa, FL","NOAA NOS PORTS","NOS/CO-OPS","fixed","n","n","n","n",1624600440000000000
+40,2.1,3.1,,,,,,,,,,,,"TPAF1",27.933,-82.433,0,"8726694 - TPA Cruise Terminal 2, Tampa, FL","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624600440000000000
 ,,,,,,,,,,27.7,,,-0.34,"TPEF1",25.41,-80.964,0,"Tarpon Bay East, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1624597200000000000
 90,2.1,2.6,,,,,1028.1,0.9,19.3,22.9,14.1,,,"TPLM2",38.899,-76.436,0,"Thomas Point, MD","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1624600800000000000
 100,1.5,2.1,,,,,1020.9,,26.4,26.7,,,,"TRDF1",28.416,-80.593,3.5,"8721604 - Trident Pier, FL","NOS","NOS/CO-OPS","fixed","y","n","n","n",1624600440000000000
@@ -843,3 +843,4 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,,,,,1019.4,,,11.6,,,,"YATA2",59.548,-139.733,6.6,"9453220 - Yakutat, Yakutat Bay, AK","NOS","NOS/CO-OPS","fixed","y","n","n","n",1624600440000000000
 130,3.6,5.1,,,,,,,21.5,,,,,"YKRV2",37.251,-76.342,0,"8637611 - York River East Rear Range Light, VA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624600440000000000
 100,4.1,4.6,,,,,1025.9,,21.7,24.1,,,,"YKTV2",37.227,-76.479,3.7,"8637689 - Yorktown USCG Training Center, VA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1624600440000000000
+60,0.5,,,,,,1027,,22.2,,17.9,,,"YRSV2",37.414,-76.712,11,"Taskinas Creek, Chesapeake Bay Reserve, VA","National Estuarine Research Reserve System","NERRS","fixed","y","n","n","n",1624599000000000000
