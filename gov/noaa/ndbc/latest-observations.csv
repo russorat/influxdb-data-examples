@@ -120,21 +120,21 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 160,3,4,0.4,7,,,1030.5,-0.4,13.8,12.1,,,,"44488",45.44,-60.95,0,"East of Chedabucto Bay","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1624651200000000000
 180,3,4,0.2,5,,,1030.3,-0.2,14.2,14,,,,"44489",45.49,-61.14,0,"West Chedabucto Bay","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1624651200000000000
 180,8,10,0.5,3,,,1025.4,-0.4,13.4,11.6,,,,"44490",44.66,-66.37,0,"West Bay of Fundy","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1624651200000000000
-260,3,3,,,,,1012.2,,8.7,6.3,8.1,,,"45001",48.061,-87.793,183,"MID SUPERIOR- 60 NM North Northeast Hancock, MI","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1624652400000000000
-150,2,2,,,,,1010.8,,12.8,9.7,12.8,,,"45003",45.351,-82.84,177,"NORTH HURON - 32NM Northeast of Alpena, MI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624652400000000000
-240,1,1,,,,,1012.8,,6.5,4.5,,,,"45004",47.585,-86.585,183,"EAST SUPERIOR -70 NM NE Marquette, MI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624652400000000000
-190,8,10,,,,,1013,,22.8,20.1,20.3,,,"45005",41.677,-82.398,174,"WEST ERIE - 16 NM NW of Lorain, OH","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1624652400000000000
-360,2,2,,,,,1012.8,,12.1,10.5,11,,,"45006",47.335,-89.793,183,"WEST SUPERIOR - 30NM NE of Outer Island, WI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624652400000000000
-170,4,4,,,,,1010.4,,15.2,12.6,,,,"45008",44.283,-82.416,177,"SOUTH HURON - 43NM East of Oscoda, MI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624652400000000000
-180,4,4,,,,,1016.6,,18.8,15.8,16.4,,,"45012",43.621,-77.401,74.7,"EAST Lake Ontario  - 20NM North Northeast of Rochester, NY","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624652400000000000
-340,3,4,0.4,5,,,1011.4,,14.9,,,,,"45013",43.1,-87.85,176,"ATW20 - Atwater Park, WI","University of Wisconsin-Milwaukee","IOOS Partners","buoy","y","n","n","n",1624649400000000000
-160,4,4,0.1,,,74,1011.3,,22,19.6,,,,"45014",44.795,-87.759,176,"GB17 - South Green Bay, WI","University of Wisconsin-Milwaukee","IOOS Partners","buoy","y","y","y","n",1624649400000000000
+270,2,3,,,,,1012.2,,8.7,6.3,7.9,,,"45001",48.061,-87.793,183,"MID SUPERIOR- 60 NM North Northeast Hancock, MI","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1624653000000000000
+160,2,2,,,,,1010.7,,12.9,9.6,12.9,,,"45003",45.351,-82.84,177,"NORTH HURON - 32NM Northeast of Alpena, MI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624653000000000000
+200,1,1,,,,,1012.8,,6.3,4.4,,,,"45004",47.585,-86.585,183,"EAST SUPERIOR -70 NM NE Marquette, MI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624653000000000000
+190,9,10,,,,,1013.1,,22.9,20.1,20.3,,,"45005",41.677,-82.398,174,"WEST ERIE - 16 NM NW of Lorain, OH","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1624653000000000000
+10,1,2,,,,,1012.9,,12,9.8,11,,,"45006",47.335,-89.793,183,"WEST SUPERIOR - 30NM NE of Outer Island, WI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624653000000000000
+170,3,4,,,,,1010.5,,15,12.6,,,,"45008",44.283,-82.416,177,"SOUTH HURON - 43NM East of Oscoda, MI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624653000000000000
+170,3,3,,,,,1016.7,,18.4,15.8,16.4,,,"45012",43.621,-77.401,74.7,"EAST Lake Ontario  - 20NM North Northeast of Rochester, NY","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1624653000000000000
+350,2,3,0.3,5,,,1012,,14.5,,,,,"45013",43.1,-87.85,176,"ATW20 - Atwater Park, WI","University of Wisconsin-Milwaukee","IOOS Partners","buoy","y","n","n","n",1624653000000000000
+80,3,3,0.1,,,100,1011.1,,21.1,19.5,,,,"45014",44.795,-87.759,176,"GB17 - South Green Bay, WI","University of Wisconsin-Milwaukee","IOOS Partners","buoy","y","y","y","n",1624653000000000000
 320,2,2,0.1,,,,1013,,16.1,15.7,,,,"45022",45.405,-85.085,176,"Little Traverse Bay Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1624653000000000000
 150,4,4,0.1,,,331,1010.3,,18.4,16.3,10.5,,,"45023",47.27,-88.607,183,"North Entry Buoy, North Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","y","y","n",1624653000000000000
 130,1,1,0.5,6,,213,1013,,15.7,14.2,,,,"45024",43.981,-86.556,176,"Ludington Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1624653000000000000
 170,3,3,0.1,,,26,1012.2,,12.9,12.6,12,,,"45025",46.969,-88.398,183,"South Entry Buoy, South Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","n","y","n",1624653300000000000
 330,2,2,0.2,,,157,1011.8,,20.8,17.9,19,,,"45026",41.982,-86.619,176,"Cook Nuclear Plant Buoy, Stevensville, MI","Limno Tech","IOOS Partners","buoy","y","y","y","n",1624653000000000000
-80,1,,0.3,3,,63,1011.5,,17.1,16,14,,,"45027",46.86,-91.93,183,"McQuade Harbor Nearshore, MN","University of Minnesota, Duluth","IOOS Partners","buoy","y","n","y","n",1624652400000000000
+110,1,,0.3,3,,63,1011.5,,17.1,15.9,13.9,,,"45027",46.86,-91.93,183,"McQuade Harbor Nearshore, MN","University of Minnesota, Duluth","IOOS Partners","buoy","y","n","y","n",1624653000000000000
 190,3,4,0.4,5,,261,1012.3,,18.7,17.5,17.3,,,"45029",42.9,-86.272,176,"Holland Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1624653000000000000
 190,10,12,0.6,4,,,1013.1,-1.3,20.9,17.1,,,,"45132",42.46,-81.22,174,"Port Stanley","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1624651200000000000
 150,6,7,0.4,4,,,1017.1,-0.3,18.9,15.5,,,,"45135",43.78,-76.87,75,"Prince Edward Pt","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1624651200000000000
@@ -159,9 +159,9 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 140,1,2,0.4,4,,261,1012.2,,20.8,18.9,18.5,,,"45168",42.397,-86.331,177,"South Haven Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1624653000000000000
 ,2,2,0.1,,,,,,20.5,,,,,"45170",41.755,-86.968,177,"Michigan City Buoy, IN","Illinois-Indiana Sea Grant and Purdue Civil Engineering","IOOS Partners","buoy","y","n","y","n",1624653000000000000
 70,2,3,0.1,,,,1010.2,,,18.3,,,,"45174",42.135,-87.655,176,"Wilmette Buoy, IL","Illinois-Indiana Sea Grant and Purdue Civil Engineering","IOOS Partners","buoy","y","n","y","n",1624653000000000000
-150,1,1,0.1,,,,1012.3,,15.8,16.2,15.7,,,"45175",45.825,-84.772,176,"Mackinac Straits West, Mackinaw City, MI","Michigan Technological University","IOOS Partners","buoy","y","y","n","n",1624652700000000000
+130,1,2,0.1,,,,1012.3,,16,16.1,15.9,,,"45175",45.825,-84.772,176,"Mackinac Straits West, Mackinaw City, MI","Michigan Technological University","IOOS Partners","buoy","y","y","n","n",1624653000000000000
 ,,,,,,,,,,6.5,,,,"45180",48.034,-87.73,0,"Isle of Royale East, MI (230)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","n","n","n",1624652760000000000
-200,1,2,0.1,,,,,,16.2,15.1,,,,"45183",44.982,-85.831,176,"Sleeping Bear Dunes","National Park Service - Sleeping Bear Dunes","IOOS Partners","buoy","y","n","y","n",1624649400000000000
+260,1,1,0.1,,,,,,16.5,15.1,,,,"45183",44.982,-85.831,176,"Sleeping Bear Dunes","National Park Service - Sleeping Bear Dunes","IOOS Partners","buoy","y","n","y","n",1624653000000000000
 ,3,4,0.1,,,104,,,14.8,12.1,,,,"45186",42.368,-87.795,176,"Waukegan Buoy, IL","University of Illinois at Urbana-Champaign","IOOS Partners","buoy","y","y","n","n",1624653000000000000
 ,,,0.2,,,106,,,12.5,11,,,,"45187",42.491,-87.779,176,"Winthrop Harbor Buoy, IL","University of Illinois at Urbana-Champaign","IOOS Partners","buoy","y","y","n","n",1624653000000000000
 ,,,0.1,,3,,,,16.5,16.1,,,,"45194",45.804,-84.792,177.43,"McGulpin Point North, MI (253)","Michigan Technological University","IOOS Partners","buoy","y","y","n","n",1624651200000000000
@@ -416,7 +416,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 210,8.2,9.8,,,,,1024,,10.9,,10.9,,,"CSPA2",58.199,-136.64,25,"Cape Spencer, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1624651800000000000
 ,,,,,,,,,,28.8,,,-0.33,"CWAF1",25.297,-81.013,0,"Clear Water Pass, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1624644000000000000
 30,2.6,4.1,,,,,1019.6,0.7,23.7,31.2,,,,"CWBF1",27.978,-82.832,1.3,"8726724 - Clearwater Beach, FL","NOS","NOS/CO-OPS","fixed","y","n","n","n",1624651200000000000
-270,2.6,,,,,,1012.3,,8.2,,8.1,,,"CWCI",47.334,-85.833,163,"Caribou Island","Environment and Climate Change Canada","International Partners","fixed","y","n","n","n",1624647600000000000
+320,2.6,,,,,,1012.9,,8,,8,,,"CWCI",47.334,-85.833,163,"Caribou Island","Environment and Climate Change Canada","International Partners","fixed","y","n","n","n",1624651200000000000
 170,3.1,4.6,,,,,1016.4,0.4,23.8,,,,,"DBLN6",42.494,-79.354,182.9,"Dunkirk, NY","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1624651200000000000
 160,3.6,6.2,,,,,1024,0,21.5,,,,,"DELD1",39.582,-75.589,2.3,"8551762 - Delaware City, DE","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624651200000000000
 220,1,1.5,,,,,1014.6,-1,17.9,,,,,"DESW1",47.675,-124.485,21.3,"Destruction Island, WA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1624651200000000000
@@ -711,7 +711,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 310,2.1,4.1,,,,,1014.5,-1.1,29.5,11.7,,,,"PTWW1",48.111,-122.76,5.1,"9444900 - Port Townsend, WA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1624651200000000000
 190,3.6,5.1,,,,,1026.1,0.6,19,,18,5.9,,"PVDR1",41.786,-71.383,3.869,"8453662 - Providence Visibility, RI","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624651200000000000
 40,2.1,3.1,,,,,1012.9,,14.1,,,,,"PWAW3",43.388,-87.867,178,"Port Washington, WI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1624650000000000000
-320,3.1,5.1,,,,,,,,,,,,"PXAC1",33.764,-118.265,0,"9410690 - Los Angeles Berth 161, CA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624650480000000000
+330,2.6,4.1,,,,,,,,,,,,"PXAC1",33.764,-118.265,0,"9410690 - Los Angeles Berth 161, CA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624650840000000000
 250,4.1,10.3,,,,,1013.6,0,13.7,,,,,"PXOC1",37.798,-122.393,0,"9414311 - San Francisco Pier 1, CA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624651200000000000
 ,,,,,,,,,14.5,,14.5,5.9,,"PXSC1",37.803,-122.397,1.54,"9414296 - Pier 17, San Francisco Bay, CA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624651200000000000
 220,3.1,4.1,,,,,1026,0.4,18.4,18.6,,,,"QPTR1",41.586,-71.407,1.6,"8454049 - Quonset Point, RI","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624651200000000000
@@ -751,7 +751,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 80,1.5,3.6,,,,,1019.3,,24,,,,-0.24,"SHPF1",30.058,-84.291,0,"SHP - Shell Point, FL","COMPS (University of South Florida)","IOOS Partners","fixed","y","n","n","n",1624647240000000000
 360,2.1,4.1,,,,,1023.2,,12.4,,12.1,,,"SHXA2",57.055,-135.349,4.6,"Sitka Harbor, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1624653120000000000
 70,3.1,7.2,,,,,,,14.3,,,,,"SISA2",58.177,-135.259,15.25,"Sisters Island, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1624652520000000000
-,0,0.5,,,,,1014.1,,23.8,,12.1,,,"SISW1",48.321,-122.831,0,"Smith Island, WA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1624652400000000000
+,0,0,,,,,1014,,22.9,,11.9,,,"SISW1",48.321,-122.831,0,"Smith Island, WA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1624653000000000000
 100,5.7,7.7,,,,,1015.8,0.8,28,29.1,,,,"SJNP4",18.459,-66.116,1.3,"9755371 - San Juan, La Puntilla, San Juan Bay, PR","NOS","NOS/CO-OPS","fixed","y","n","n","n",1624651200000000000
 ,0,1.5,,,,,1013.2,1,22.6,,,,,"SJOM4",42.098,-86.494,182,"St. Joseph, MI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1624651200000000000
 ,,,,,,,1025,0,21.1,23.3,,,,"SJSN4",39.305,-75.377,6.3,"8537121 - Ship John Shoal, NJ","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1624651200000000000
