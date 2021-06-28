@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-06-28T20:25:01UTC" count="1314">
+<stations created="2021-06-28T20:40:01UTC" count="1314">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -540,7 +540,7 @@
   <station id="52200" lat="13.354" lon="144.788" elev="0" name="Ipan, Guam (121)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="52201" lat="7.083" lon="171.392" elev="0" name="Kalo, Majuro, Marshall Islands (163)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="52202" lat="13.682" lon="144.806" elev="0" name="Ritidian Point, Guam (196)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="52211" lat="15.268" lon="145.662" elev="0" name="Tanapag, Saipan, NMI (197)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="52211" lat="15.268" lon="145.662" elev="0" name="Tanapag, Saipan, NMI (197)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="52309" lat="5" lon="180" elev="0" name="5N 180W" owner="NDBC" pgm="TAO" type="tao" seq="73"/>
   <station id="52310" lat="2" lon="180" elev="0" name="2N 180W" owner="NDBC" pgm="TAO" type="tao" seq="74"/>
   <station id="52311" lat="0" lon="180" elev="0" name="0 180W" owner="NDBC" pgm="TAO" type="tao" seq="75"/>
