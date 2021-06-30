@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-06-30T20:35:01UTC" count="1314">
+<stations created="2021-06-30T20:45:01UTC" count="1314">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -390,7 +390,7 @@
   <station id="46087" lat="48.493" lon="-124.726" elev="0" name="Neah Bay - 6 NM North of Cape Flattery, WA     (Traffic Separation Lighted Buoy)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46088" lat="48.332" lon="-123.179" elev="0" name="NEW DUNGENESS - 17 NM NE of Port Angeles, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46089" lat="45.937" lon="-125.793" elev="0" name="TILLAMOOK, OR - 85 NM WNW of Tillamook, OR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46092" lat="36.751" lon="-122.029" elev="0" name="MBM1" owner="MBARI" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46092" lat="36.751" lon="-122.029" elev="0" name="MBM1" owner="MBARI" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46096" lat="46.173" lon="-124.127" elev="0" name="Columbia River Entrance - SATURN Station #02 Offshore" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46097" lat="44.639" lon="-124.304" elev="0" name="OOI Newport Shelf" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="46098" lat="44.381" lon="-124.956" elev="0" name="OOI Waldport Offshore" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
