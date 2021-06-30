@@ -36,7 +36,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 70,5,6,1,5,,78,1015.7,0.7,27,28.2,,,,"41056",18.261,-65.464,0,"Vieques Island, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1625068800000000000
 180,6,9,,,,,1019.6,,27.3,,,,,"41064",34.207,-76.949,0,"Onslow Bay Outer, NC (LEJ3)","CORMP","IOOS Partners","buoy","y","n","y","n",1625069280000000000
 ,,,0.7,7,4.3,152,,,,27,,,,"41108",33.722,-78.016,0,"Wilmington Harbor, NC - (200)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1625068800000000000
-,,,0.8,8,3.9,140,,,,28.1,,,,"41110",34.142,-77.715,0,"Masonboro Inlet, ILM2, NC (150)","CORMP","IOOS Partners","buoy","y","n","n","n",1625069220000000000
+,,,0.8,8,,,,,,28.1,,,,"41110",34.142,-77.715,0,"Masonboro Inlet, ILM2, NC (150)","CORMP","IOOS Partners","buoy","y","n","n","n",1625069220000000000
 ,,,0.7,7,4.8,106,,,26.8,27.9,,,,"41112",30.709,-81.292,0,"Offshore Fernandina Beach, FL (132)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1625068800000000000
 ,,,0.8,7,,,,,,27.7,,,,"41113",28.4,-80.533,0,"Cape Canaveral Nearshore, FL (143)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625068560000000000
 ,,,0.9,5,,,,,,26.9,,,,"41114",27.551,-80.217,0,"Fort Pierce, FL (134)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625068560000000000
@@ -65,7 +65,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,10,13,,,,,1014.7,,27.8,28.1,,,,"42060",16.433,-63.331,0,"Caribbean Valley - 63 NM WSW of Montserrat","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1625069400000000000
 ,,,0.6,6,4.5,159,,,27.4,29.6,,,,"42084",28.988,-89.649,0,"Southwest Pass Entrance W, LA (256)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1625068800000000000
 100,9,11,1.4,7,,,1015.2,0,28.8,28.4,,,,"42085",17.869,-66.532,0,"Southeast of Ponce, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1625065200000000000
-,,,0.7,6,4.4,87,,,27.5,28.6,,,,"42095",24.407,-81.967,0,"Satan Shoal, FL (244)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","y","n","n",1625068800000000000
+,,,0.7,6,,,,,27.5,28.6,,,,"42095",24.407,-81.967,0,"Satan Shoal, FL (244)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","y","n","n",1625068800000000000
 ,,,0.8,4,,,,,,28.2,,,,"42097",25.701,-83.65,0,"Pulley Ridge, FL (226)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","n","n","n",1625068560000000000
 ,,,0.6,3,,,,,,29.1,,,,"42098",27.59,-82.931,0,"Egmont Channel Entrance, FL (214)","Greater Tampa Bay Marine Advisory Council-PORTS","IOOS Partners","buoy","y","n","n","n",1625068560000000000
 ,,,0.6,5,,,,,,27,,,,"42099",27.345,-84.275,0,"Offshore St. Petersburg, FL (144)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625068560000000000
@@ -247,7 +247,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,1.1,14,,,,,,20,,,,"46256",33.7,-118.201,0,"Long Beach Channel, CA (215)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625068560000000000
 ,,,1.1,8,,,,,,20.5,,,,"46258",32.752,-117.501,0,"Mission Bay West, CA (220)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625068560000000000
 ,,,2.1,8,7.8,315,,,,15.3,,,,"46259",34.767,-121.498,0,"Santa Lucia Escarpment, CA (222)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","n","n","n",1625061360000000000
-,,,1.2,5,4.4,219,,,,8.5,,,,"46264",57.479,-151.695,0,"Kodiak, AK (236)","National Renewable Energy Laboratory","IOOS Partners","buoy","y","n","n","n",1625068560000000000
+,,,1.2,5,,,,,,8.5,,,,"46264",57.479,-151.695,0,"Kodiak, AK (236)","National Renewable Energy Laboratory","IOOS Partners","buoy","y","n","n","n",1625068560000000000
 ,,,0.7,8,7,276,,,18.7,20.5,,,,"46266",32.957,-117.279,0,"Del Mar Nearshore, CA (153)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","y","n","n",1625068800000000000
 ,,,0.8,9,,,,,,10.6,,,,"46267",48.173,-123.607,0,"Angeles Point, WA (248)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1625067000000000000
 ,,,0.6,14,5.4,194,,,20.1,19.8,,,,"46268",34.022,-118.578,0,"Topanga Nearshore, CA (103)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1625068800000000000
@@ -263,7 +263,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,1,7,,,,,,26.5,,,,"51201",21.671,-158.117,0,"Waimea Bay, HI (106)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625068620000000000
 ,,,1.7,6,,,,,,26.3,,,,"51202",21.417,-157.68,0,"Mokapu Point, HI (098)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625068560000000000
 ,,,1.7,6,,,,,,26,,,,"51205",21.019,-156.422,0,"Pauwela, Maui, HI (187)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625068560000000000
-,,,1.3,6,4.7,66,,,,26.2,,,,"51207",21.477,-157.752,0,"Kaneohe Bay, HI (198)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625068560000000000
+,,,1.3,6,,,,,,26.2,,,,"51207",21.477,-157.752,0,"Kaneohe Bay, HI (198)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625068560000000000
 ,,,1.2,7,,,,,,26.8,,,,"51208",22.285,-159.574,0,"Hanalei, Kauai, HI (202)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625068560000000000
 ,,,2.2,10,,,,,,28.7,,,,"51209",-14.273,-170.5,0,"Aunuu, American Samoa (189)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625067960000000000
 ,,,1.1,17,5.2,169,,,,26.9,,,,"51211",21.297,-157.959,0,"Pearl Harbor Entrance, HI (233)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","y","n","n",1625068800000000000
