@@ -3,7 +3,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 26,7.2,8.9,,,,,,,22.7,23.3,,,,"13002",21,-23,0,"NE Extension","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1625140800000000000
 341,8.7,10.1,,,,,1017.7,,25.4,,,,,"13008",15,-38,0,"Reggae","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1625140800000000000
 134,7.9,9.9,,,,,1017.2,,25.1,25.9,,,,"15001",-10,-10,0,"Gavotte","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1625140800000000000
-122,6.6,,,,,,,,25.8,26.7,,,,"15002",0,-10,0,"Java","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1625144400000000000
+122,6.3,,,,,,,,25.9,26.7,,,,"15002",0,-10,0,"Java","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1625148000000000000
 122,8.8,11.7,,,,,,,26.7,,,,,"15006",-6,-10,0,"Valse","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1625140800000000000
 190,0,,,,,,,,21.2,18,,,,"22101",37.24,126.02,0,"","Korean Meteorological Administration","International Partners","buoy","y","n","n","n",1625148000000000000
 160,2,,,,,,,,19.5,19.2,,,,"22102",34.79,125.78,0,"","Korean Meteorological Administration","International Partners","buoy","y","n","n","n",1625148000000000000
@@ -129,16 +129,16 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 40,3,5,,,,,1009.5,,19.4,18.3,19,,,"45012",43.621,-77.401,74.7,"EAST Lake Ontario  - 20NM North Northeast of Rochester, NY","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1625148600000000000
 20,8,10,1.3,5,,,1019.4,-0.4,16.7,,,,,"45013",43.1,-87.85,176,"ATW20 - Atwater Park, WI","University of Wisconsin-Milwaukee","IOOS Partners","buoy","y","n","n","n",1625148000000000000
 80,9,11,0.8,5,,76,1019,-0.6,21.8,20.1,,,,"45014",44.795,-87.759,176,"GB17 - South Green Bay, WI","University of Wisconsin-Milwaukee","IOOS Partners","buoy","y","y","y","n",1625148000000000000
-320,7,8,0.6,3,,303,1019.3,,16.5,17,,,,"45022",45.405,-85.085,176,"Little Traverse Bay Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1625149200000000000
+320,7,8,0.6,3,,332,1019.3,,16.5,17,,,,"45022",45.405,-85.085,176,"Little Traverse Bay Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1625149200000000000
 40,6,7,0.5,3,,46,1020.7,,13.2,14.5,9.2,,,"45023",47.27,-88.607,183,"North Entry Buoy, North Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","y","y","n",1625148900000000000
 340,10,13,1.5,6,,331,1018.6,,16.2,16.8,,,,"45024",43.981,-86.556,176,"Ludington Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1625148600000000000
-70,5,5,0.5,3,,5,1021.7,,12.8,13.6,9.9,,,"45025",46.969,-88.398,183,"South Entry Buoy, South Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","n","y","n",1625149200000000000
+70,5,5,0.5,3,,29,1021.7,,12.8,13.6,9.9,,,"45025",46.969,-88.398,183,"South Entry Buoy, South Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","n","y","n",1625149200000000000
 350,9,13,1.4,5,,353,1016.4,,19.1,20.2,14.9,,,"45026",41.982,-86.619,176,"Cook Nuclear Plant Buoy, Stevensville, MI","Limno Tech","IOOS Partners","buoy","y","y","y","n",1625148600000000000
 70,8,,0.9,5,,44,1021.6,,15.8,17.5,12,,,"45027",46.86,-91.93,183,"McQuade Harbor Nearshore, MN","University of Minnesota, Duluth","IOOS Partners","buoy","y","n","y","n",1625148600000000000
 320,12,16,1.7,6,,336,1016,,17.4,20.1,13.2,,,"45029",42.9,-86.272,176,"Holland Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1625148600000000000
 330,6,7,0.2,2,,,1011.7,-1.1,21.7,21.3,,,,"45132",42.46,-81.22,174,"Port Stanley","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625144400000000000
 20,8,9,0.3,2,,,1010.4,-0.4,18.6,19.4,,,,"45135",43.78,-76.87,75,"Prince Edward Pt","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
-30,1,2,0.1,2,,,1022.3,-1.1,13.5,9.2,,,,"45136",48.54,-86.95,183,"Slate Island","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625144400000000000
+190,3,3,0.1,2,,,1021.7,-1.6,13,9.5,,,,"45136",48.54,-86.95,183,"Slate Island","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 20,9,11,0.5,3,,,1015.2,-0.5,16.3,15.8,,,,"45137",45.54,-81.02,177,"Georgian Bay","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 50,2,2,,2,,,1009.7,-1.5,21.2,21.2,,,,"45139",43.25,-79.53,75,"West Lake Ontario - Grimsby","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 ,2,2,,2,,,1019.4,-1.1,25.9,26.5,,,,"45140",50.8,-96.73,217,"Lake Winnipeg S. Basin","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
@@ -206,7 +206,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 300,8,10,,,,,1021.8,,11.3,12.3,9.8,,,"46084",56.622,-136.102,0,"CAPE EDGECUMBE - 25NM SSW of Cape Edgecumbe, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1625148600000000000
 170,4,5,,,,,1025.5,,10.1,10,,,,"46085",55.883,-142.882,0,"CENTRAL GULF OF ALASKA -  265NM West of Cape Ommaney, AK","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1625148600000000000
 290,3,5,,,,,1012.2,,17.7,19.2,15.2,,,"46086",32.499,-118.052,0,"SAN CLEMENTE BASIN - 27NM SE Of San Clemente Is, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1625148600000000000
-210,3,4,,,,,1016.3,,12.7,11.2,12.1,,,"46088",48.332,-123.179,0,"NEW DUNGENESS - 17 NM NE of Port Angeles, WA","NDBC","NDBC Meteorological/Ocean","buoy","y","y","n","n",1625148600000000000
+210,3,4,,,3.3,,1016.3,,12.7,11.2,12.1,,,"46088",48.332,-123.179,0,"NEW DUNGENESS - 17 NM NE of Port Angeles, WA","NDBC","NDBC Meteorological/Ocean","buoy","y","y","n","n",1625148600000000000
 330,8,10,,,,,1019,,15.1,16.2,12.9,,,"46089",45.937,-125.793,0,"TILLAMOOK, OR - 85 NM WNW of Tillamook, OR","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1625148600000000000
 210,3,,,,,,1014.7,0,14.2,14.2,,,,"46092",36.751,-122.029,0,"MBM1","MBARI","IOOS Partners","buoy","y","n","n","n",1625145780000000000
 350,6,,,,,,1017,,16,15.3,,,,"46097",44.639,-124.304,0,"OOI Newport Shelf","Ocean Observatories Initiative","IOOS Partners","buoy","y","n","y","n",1625143800000000000
@@ -218,20 +218,20 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 280,9,11,1.8,8,,,1021.8,0.9,11.5,13.2,,,,"46145",54.37,-132.42,0,"Central Dixon Entrance Buoy","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 110,3,3,0.2,3,,,1015.5,0.3,17.8,18.3,,,,"46146",49.34,-123.73,0,"Halibut Bank","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 310,10,12,2.2,7,,,1022.1,0.6,11.4,13.2,,,,"46147",51.83,-131.22,0,"South Moresby","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
-200,8,9,0.3,2,,,1016.3,-0.4,,14.3,,,,"46181",53.83,-128.83,0,"Nanakwa Shoal","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625144400000000000
+200,7,8,0.2,2,,,1015.9,-0.9,,13.8,,,,"46181",53.83,-128.83,0,"Nanakwa Shoal","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 330,8,10,1.4,5,,,1021.5,1,12.1,11.5,,,,"46183",53.62,-131.1,0,"North Hecate Strait","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625144400000000000
 290,5,6,,7,,,1027.3,0.7,9.8,10.5,,,,"46184",53.92,-138.85,0,"North Nomad","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625144400000000000
 330,12,15,2.1,6,,,1020,,12.1,12.7,,,,"46185",52.42,-129.79,0,"South Hecate Strait","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 320,11,13,2.8,8,,,1019.9,1,12.6,12.9,,,,"46204",51.38,-128.77,0,"West Sea Otter","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
-300,8,10,1.9,7,,,1023.7,0.7,11.3,12,,,,"46205",54.18,-134.32,0,"West Dixon Entrance","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625144400000000000
-300,5,6,2.1,7,,,1016.9,0.9,15.3,16.4,,,,"46206",48.84,-126,0,"La Perouse Bank","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625144400000000000
+300,9,10,1.8,7,,,1023.8,0.4,11.2,11.9,,,,"46205",54.18,-134.32,0,"West Dixon Entrance","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
+300,6,7,2,8,,,1017.1,0.7,15,16.4,,,,"46206",48.84,-126,0,"La Perouse Bank","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 320,7,9,2.5,9,,,1021.7,1.1,12.9,13.6,,,,"46207",50.87,-129.92,0,"East Dellwood","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 310,9,11,2,8,,,1023.7,0.5,11.3,11.5,,,,"46208",52.52,-132.69,0,"West Moresby","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1625148000000000000
 ,,,2,10,7.8,297,,,,16.7,,,,"46211",46.857,-124.244,0,"Grays Harbor, WA (036)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,2.6,10,7.2,319,,,,11.8,,,,"46213",40.295,-124.732,0,"Cape Mendocino, CA (094)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,2.4,11,7.3,302,,,,12.8,,,,"46214",37.937,-123.463,0,"Point Reyes, CA (029)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,1.2,10,7.3,293,,,,14.2,,,,"46215",35.204,-120.859,0,"Diablo Canyon, CA (076)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
-,,,1.9,11,7.9,305,,,,15.4,,,,"46218",34.452,-120.78,0,"Harvest, CA (071)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
+,,,1.9,11,,,,,,15.4,,,,"46218",34.452,-120.78,0,"Harvest, CA (071)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,1.5,11,8.4,300,,,,17.5,,,,"46219",33.219,-119.872,0,"San Nicolas Island, CA (067)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,0.8,14,7.1,186,,,,19.6,,,,"46221",33.86,-118.641,0,"Santa Monica Bay, CA (028)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,0.8,10,6.5,262,,,,20.1,,,,"46222",33.618,-118.317,0,"San Pedro, CA (092)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147460000000000
@@ -252,7 +252,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,1.2,15,7.6,202,,,,20,,,,"46256",33.7,-118.201,0,"Long Beach Channel, CA (215)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,0.9,15,8.8,201,,,,20.3,,,,"46258",32.752,-117.501,0,"Mission Bay West, CA (220)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,1.6,11,8,311,,,,15.3,,,,"46259",34.767,-121.498,0,"Santa Lucia Escarpment, CA (222)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","n","n","n",1625147760000000000
-,,,2.4,11,6.6,216,,,,8.6,,,,"46264",57.479,-151.695,0,"Kodiak, AK (236)","National Renewable Energy Laboratory","IOOS Partners","buoy","y","n","n","n",1625147760000000000
+,,,2.4,11,,,,,,8.6,,,,"46264",57.479,-151.695,0,"Kodiak, AK (236)","National Renewable Energy Laboratory","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,0.6,17,6,239,,,18.9,21.1,,,,"46266",32.957,-117.279,0,"Del Mar Nearshore, CA (153)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","y","n","n",1625148000000000000
 ,,,1.2,10,7.8,289,,,,10.5,,,,"46267",48.173,-123.607,0,"Angeles Point, WA (248)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1625148000000000000
 ,,,0.7,13,5,196,,,20.1,20.2,,,,"46268",34.022,-118.578,0,"Topanga Nearshore, CA (103)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1625148000000000000
@@ -267,7 +267,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 80,7,9,,,,,1019.9,,25.8,27,21.5,,,"51101",24.361,-162.075,0,"NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1625148600000000000
 ,,,1,5,4.2,47,,,,26.5,,,,"51201",21.671,-158.117,0,"Waimea Bay, HI (106)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625147820000000000
 ,,,1.6,6,5,106,,,,26.2,,,,"51202",21.417,-157.68,0,"Mokapu Point, HI (098)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625147760000000000
-,,,1.5,7,4.8,80,,,,25.8,,,,"51205",21.019,-156.422,0,"Pauwela, Maui, HI (187)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625147760000000000
+,,,1.5,7,,,,,,25.8,,,,"51205",21.019,-156.422,0,"Pauwela, Maui, HI (187)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,1.3,7,4.9,68,,,,26,,,,"51207",21.477,-157.752,0,"Kaneohe Bay, HI (198)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,1.4,7,4.7,74,,,,26.8,,,,"51208",22.285,-159.574,0,"Hanalei, Kauai, HI (202)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625147760000000000
 ,,,1.9,9,7.5,123,,,,28.7,,,,"51209",-14.273,-170.5,0,"Aunuu, American Samoa (189)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1625148960000000000
