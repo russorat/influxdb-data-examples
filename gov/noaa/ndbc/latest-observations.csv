@@ -357,7 +357,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 200,4.1,5.7,,,,,1012.6,-1.4,29.3,21.4,,,,"BRHC3",41.174,-73.181,1.9,"8467150 - Bridgeport, CT","NOS","NOS/CO-OPS","fixed","y","n","n","n",1625655600000000000
 160,5.1,5.7,,,,,1015.6,-0.8,,,,,,"BRND1",38.987,-75.113,1.9,"8555889 - Brandywine Shoal Light, DE","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1625655600000000000
 260,2.6,4.1,,,,,1013.9,,18.6,,,,,"BSBM4",44.055,-86.514,184,"Big Sable Point, MI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1625654400000000000
-,2.6,,,,,,1015.2,,26.7,,,,,"BSCA1",30.329,-87.829,0,"Bon Secour, AL","Dauphin Island Sea Lab","IOOS Partners","fixed","n","n","n","n",1625650200000000000
+,2.6,,,,,,1015.2,,26.7,,,,,"BSCA1",30.329,-87.829,0,"Bon Secour, AL","Dauphin Island Sea Lab","IOOS Partners","fixed","y","n","n","n",1625650200000000000
 210,3.1,,,,,,1014,,32.7,,24.4,,,"BSLM2",38.781,-76.708,0.3,"Jug Bay, Chesapeake Bay Reserve, MD","National Estuarine Research Reserve System","NERRS","fixed","y","n","n","n",1625653800000000000
 220,3.1,4.1,,,,,1013.3,-0.6,25.8,24.2,21.9,,,"BUFN6",42.878,-78.89,176.5,"9063020 - Buffalo, NY","NOS","NOS/CO-OPS","fixed","y","n","n","n",1625655600000000000
 ,3.1,3.1,,,,,,,,,,,,"BURL1",28.905,-89.428,0,"Southwest Pass, LA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1625655600000000000
