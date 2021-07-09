@@ -2,7 +2,7 @@
 #datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string,string
 #default,_result,,,,,,,,,,,
 ,result,table,_start,_stop,_time,_value,_field,_measurement,code,crypto,description,symbol
-,,0,2020-07-09T17:00:24.326935358Z,2021-07-09T23:00:24.326935358Z,2021-07-09T23:00:24.283956645Z,28601.6967,price,coindesk,EUR,bitcoin,Euro,&euro;
-,,1,2020-07-09T17:00:24.326935358Z,2021-07-09T23:00:24.326935358Z,2021-07-09T23:00:24.283956645Z,24426.3498,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
-,,2,2020-07-09T17:00:24.326935358Z,2021-07-09T23:00:24.326935358Z,2021-07-09T23:00:24.283956645Z,33970.2133,price,coindesk,USD,bitcoin,United States Dollar,&#36;
+,,0,2020-07-09T17:22:35.67587308Z,2021-07-09T23:22:35.67587308Z,2021-07-09T23:22:35.636358765Z,28559.131,price,coindesk,EUR,bitcoin,Euro,&euro;
+,,1,2020-07-09T17:22:35.67587308Z,2021-07-09T23:22:35.67587308Z,2021-07-09T23:22:35.636358765Z,24391.5624,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
+,,2,2020-07-09T17:22:35.67587308Z,2021-07-09T23:22:35.67587308Z,2021-07-09T23:22:35.636358765Z,33921.8337,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 
