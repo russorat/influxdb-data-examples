@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-07-13T07:25:01UTC" count="1317">
+<stations created="2021-07-13T07:35:01UTC" count="1317">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1085,7 +1085,7 @@
   <station id="pact2" lat="27.634" lon="-97.237" elev="0" name="8775792 - Packery Channel, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="paxa2" lat="58.159" lon="-134.178" elev="13.7" name="Point Arden, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pbfw1" lat="48.464" lon="-122.469" elev="1.83" name="Padilla Bay Farm, Padilla Bay Reserve, WA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="pblw1" lat="48.556" lon="-122.53" name="Ploeg Channel, Padilla Bay Reserve, WA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="pblw1" lat="48.556" lon="-122.53" name="Ploeg Channel, Padilla Bay Reserve, WA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="pbpa2" lat="58.203" lon="-134.148" elev="3" name="Point Bishop, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcbf1" lat="30.213" lon="-85.88" elev="7.9" name="8729210 - Panama City Beach, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcgt2" lat="26.072" lon="-97.167" elev="0" name="8779748 - South Padre Island CGS, TX " owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
