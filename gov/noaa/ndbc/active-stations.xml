@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-07-13T20:00:01UTC" count="1317">
+<stations created="2021-07-13T20:20:01UTC" count="1320">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -41,7 +41,7 @@
   <station id="14043" lat="-12" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14047" lat="-4" lon="57" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15006" lat="-6" lon="-10" elev="0" name="Valse" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15007" lat="-6" lon="8" elev="0" name="SE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="18ci3" lat="41.73" lon="-86.91" elev="176" name="Michigan City CG Station, IN" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -170,7 +170,7 @@
   <station id="41421" lat="23.382" lon="-63.907" name="NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="41425" lat="28.633" lon="-65.65" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="41x01" lat="32.9503" lon="-44.3444" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41x01" lat="32.9453" lon="-44.3546" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42001" lat="25.942" lon="-89.657" elev="0" name="MID GULF - 180 nm South of Southwest Pass, LA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42002" lat="26.055" lon="-93.646" elev="0" name="WEST GULF - 207 NM East of Brownsville, TX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42003" lat="25.925" lon="-85.615" elev="0" name="East GULF - 208 NM West of Naples, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -837,6 +837,7 @@
   <station id="gkyf1" lat="24.627" lon="-82.872" name="Garden Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="gnjt2" lat="29.357" lon="-94.725" elev="0" name="8771341 - Galveston Bay Entrance (North Jetty), TX" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="gptw1" lat="46.273" lon="-123.767" elev="0" name="Grays Point, WA" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="gpxa2" lat="58.062" lon="-134.051" elev="12" name="Grave Point, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="grbl1" lat="29.101" lon="-89.978" name="Grand Isle Blocks, LA / CSI09" owner="LSU CSI" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="grim4" lat="46.721" lon="-87.412" elev="199" name="Granite Island, MI" owner="Northern Michigan University" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="grmm4" lat="46.684" lon="-85.972" elev="186" name="Grand Marais, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -998,6 +999,7 @@
   <station id="mism1" lat="43.784" lon="-68.855" elev="16.2" name="Matinicus Rock, ME" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="misp4" lat="18.09" lon="-67.939" elev="1.3" name="9759938 - Mona Island, PR" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mist2" lat="27.838" lon="-97.05" elev="3.5" name="Ship Channel, Mission-Aransas Reserve, TX" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="mixa2" lat="57.837" lon="-133.814" elev="19" name="Midway Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mkgm4" lat="43.227" lon="-86.339" elev="179.3" name="Muskegon CG Station, Muskegon, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mlrf1" lat="25.012" lon="-80.376" elev="0" name="Molasses Reef, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mlsc1" lat="36.802" lon="-121.791" elev="3.05" name="Moss Landing, South Harbor, CA" owner="Moss Landing Marine Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
@@ -1042,6 +1044,7 @@
   <station id="nkxa2" lat="58.255" lon="-134.945" elev="12.2" name="Naked Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nlma3" lat="35.458" lon="-114.666" elev="197.206" name="Lake Mohave - North" owner="National Park Service - Lake Mead National Recreation Area" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="nlnc3" lat="41.361" lon="-72.09" elev="2.4" name="8461490 - New London, CT" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="nlxa2" lat="56.005" lon="-161.177" elev="11" name="Nelson Lagoon, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="nmta2" lat="64.5" lon="-165.43" elev="4.9" name="9468756 - Nome, Norton Sound, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="noqn7" lat="34.156" lon="-77.85" name="Research Creek, North Carolina Reserve, NC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="noxn7" lat="34.155" lon="-77.851" elev="4.88" name="Research Creek, North Carolina Reserve, NC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
