@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-07-18T11:25:01UTC" count="1320">
+<stations created="2021-07-18T11:35:01UTC" count="1320">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -510,7 +510,7 @@
   <station id="51046" lat="20.024" lon="-155.828" elev="0" name="Kawaihai, HI" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="51101" lat="24.361" lon="-162.075" elev="0" name="NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI   " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="51201" lat="21.671" lon="-158.117" elev="0" name="Waimea Bay, HI (106)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="51202" lat="21.417" lon="-157.68" elev="0" name="Mokapu Point, HI (098)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="51202" lat="21.417" lon="-157.68" elev="0" name="Mokapu Point, HI (098)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="51205" lat="21.019" lon="-156.422" elev="0" name="Pauwela, Maui, HI (187)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="51206" lat="19.779" lon="-154.97" elev="0" name="Hilo, Hawaii, HI (188)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="51207" lat="21.477" lon="-157.752" elev="0" name="Kaneohe Bay, HI (198)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
