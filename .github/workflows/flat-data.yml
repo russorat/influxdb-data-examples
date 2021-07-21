@@ -88,6 +88,11 @@ jobs:
         /usr/local/bin/influx bucket create -n dummy
         /usr/local/bin/influx write -f ./iss/iss-now.lp -b dummy
         /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y) |> drop(columns: [\"_start\",\"_stop\"])" --raw > ./iss/iss-now-annotated.csv
+        /usr/local/bin/influx bucket delete -n dummy
+        /usr/local/bin/influx bucket create -n dummy
+        /usr/local/bin/influx write -f ./iss/iss-now.lp -b dummy
+        /usr/local/bin/influx write -f ./iss/iss-historical-annotated.csv --format csv -b dummy
+        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -30d) |> drop(columns: [\"_start\",\"_stop\"])" --raw > ./iss/iss-historical-annotated.csv
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
       with:
