@@ -32,6 +32,7 @@ jobs:
         with:
           http_url: http://api.open-notify.org/iss-now.json
           downloaded_filename: ./iss/iss-now.json
+          postprocess: ./iss/postprocess.js
       - name: Fetch earthquake data
         uses: githubocto/flat@v2
         with:
@@ -57,7 +58,7 @@ jobs:
       with:
         ref: ${{ github.ref }}
     - name: Setup InfluxDB
-      uses: russorat/influxdb-action@v1
+      uses: russorat/influxdb-action@v2
       with:
         influxdb_version: latest
         influxdb_org: influxdata
@@ -65,22 +66,23 @@ jobs:
         influxdb_password: password
         influxdb_bucket: dummy
     - name: Create LP and CSV files
-      env:
-        GITHUB_REPO: ${{ github.repository }}
-        GITHUB_BRANCH: ${{ github.ref }}  
       run: |
         cd $GITHUB_WORKSPACE
         /usr/local/bin/influx write dryrun -f ./gov/noaa/ndbc/latest-observations.csv --format csv --header "#constant measurement,ndbc" --header "#datatype double,double,double,double,double,double,long,double,double,double,double,double,double,double,tag,double,double,double,tag,tag,tag,tag,string,string,string,string,dateTime:number" > ./gov/noaa/ndbc/latest-observations.lp
         /usr/local/bin/influx write -f ./gov/noaa/ndbc/latest-observations.lp -b dummy
-        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./gov/noaa/ndbc/latest-observations-annotated.csv
+        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y) |> drop(columns: [\"_start\",\"_stop\"])" --raw > ./gov/noaa/ndbc/latest-observations-annotated.csv
         /usr/local/bin/influx bucket delete -n dummy
         /usr/local/bin/influx bucket create -n dummy
         /usr/local/bin/influx write -f ./gov/usgs/earthquake/all_week.lp -b dummy
-        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./gov/usgs/earthquake/all_week-annotated.csv
+        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y) |> drop(columns: [\"_start\",\"_stop\"])" --raw > ./gov/usgs/earthquake/all_week-annotated.csv
         /usr/local/bin/influx bucket delete -n dummy
         /usr/local/bin/influx bucket create -n dummy
         /usr/local/bin/influx write -f ./com/coindesk/bitcoin/currentprice.lp -b dummy
-        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./com/coindesk/bitcoin/currentprice-annotated.csv
+        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y) |> drop(columns: [\"_start\",\"_stop\"])" --raw > ./com/coindesk/bitcoin/currentprice-annotated.csv
+        /usr/local/bin/influx bucket delete -n dummy
+        /usr/local/bin/influx bucket create -n dummy
+        /usr/local/bin/influx write -f ./iss/iss-now.lp -b dummy
+        /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y) |> drop(columns: [\"_start\",\"_stop\"])" --raw > ./iss/iss-now-annotated.csv
     - name: Commit changes
       uses: EndBug/add-and-commit@v7
       with:
