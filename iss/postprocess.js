@@ -61,7 +61,7 @@ let point = {
 }
 
 point.measurement = "iss"
-point.timestamp = issJSON.timestamp * 1000000
+point.timestamp = issJSON.timestamp * 1000000000
 
 point.fields.lon = parseFloat(issJSON.iss_position.longitude)
 point.fields.lat = parseFloat(issJSON.iss_position.latitude)
