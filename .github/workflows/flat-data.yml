@@ -1,12 +1,11 @@
 name: fetch-data
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
   push:
     paths:
       - .github/workflows/flat-data.yml
-      - ./gov/noaa/ndbc/postprocess.js
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
@@ -17,34 +16,39 @@ jobs:
           deno-version: v1.x
       - name: Check out repo
         uses: actions/checkout@v2
-      - name: Fetch data
+      - name: Fetch ndbc station data
         uses: githubocto/flat@v2
         with:
           http_url: https://www.ndbc.noaa.gov/activestations.xml
           downloaded_filename: ./gov/noaa/ndbc/active-stations.xml
-      - name: Fetch data
+      - name: Fetch ndbc data
         uses: githubocto/flat@v2
         with:
           http_url: https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt
           downloaded_filename: ./gov/noaa/ndbc/latest-observations.txt
           postprocess: ./gov/noaa/ndbc/postprocess.js
-      - name: Fetch data
+      - name: Fetch iss data
         uses: githubocto/flat@v2
         with:
           http_url: http://api.open-notify.org/iss-now.json
           downloaded_filename: ./iss/iss-now.json
-      - name: Fetch data
+      - name: Fetch earthquake data
         uses: githubocto/flat@v2
         with:
           http_url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
           downloaded_filename: ./gov/usgs/earthquake/all_week.geojson
           postprocess: ./gov/usgs/earthquake/postprocess.js
-      - name: Fetch data
+      - name: Fetch bitcoin data
         uses: githubocto/flat@v2
         with:
           http_url: https://api.coindesk.com/v1/bpi/currentprice.json
           downloaded_filename: ./com/coindesk/bitcoin/currentprice.json
           postprocess: ./com/coindesk/bitcoin/postprocess.js
+      - name: Fetch synoptic data
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://api.synopticdata.com/v2/stations/timeseries?county=san%20francisco,placer,napa&state=ca&recent=60&hfmetars=1&timeformat=%s&vars=soil_temp,snow_depth,solar_radiation,PM_25_concentration,dew_point_temperature,snow_accum,pressure,fosberg_fire_weather_index,wind_speed,air_temp,wind_gust,road_temp,relative_humidity&token=${{ secrets.SYNOPTIC_TOKEN }}
+          downloaded_filename: ./com/synopticdata/timeseries-1h-ca-sf-placer-napa.json
   create-lp-csv:
     runs-on: ubuntu-latest
     needs: fetch-data
