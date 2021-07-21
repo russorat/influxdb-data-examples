@@ -1,8 +1,8 @@
-#group,false,false,true,true,false,false,true,true,true,true,true,true
-#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string,string
-#default,_result,,,,,,,,,,,
-,result,table,_start,_stop,_time,_value,_field,_measurement,code,crypto,description,symbol
-,,0,2020-07-21T09:49:14.775715799Z,2021-07-21T15:49:14.775715799Z,2021-07-21T15:49:14.723051159Z,27055.6156,price,coindesk,EUR,bitcoin,Euro,&euro;
-,,1,2020-07-21T09:49:14.775715799Z,2021-07-21T15:49:14.775715799Z,2021-07-21T15:49:14.723051159Z,23328.137,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
-,,2,2020-07-21T09:49:14.775715799Z,2021-07-21T15:49:14.775715799Z,2021-07-21T15:49:14.723051159Z,31898.3233,price,coindesk,USD,bitcoin,United States Dollar,&#36;
+#group,false,false,false,false,true,true,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string
+#default,_result,,,,,,,,,
+,result,table,_time,_value,_field,_measurement,code,crypto,description,symbol
+,,0,2021-07-21T16:27:52.298091008Z,27115.2058,price,coindesk,EUR,bitcoin,Euro,&euro;
+,,1,2021-07-21T16:27:52.298091008Z,23361.7391,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
+,,2,2021-07-21T16:27:52.298091008Z,31990.6817,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 
