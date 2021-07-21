@@ -22,3 +22,9 @@ csv.from(url: "https://raw.githubusercontent.com/russorat/influxdb-data-examples
 import "experimental/csv"
 csv.from(url: "https://raw.githubusercontent.com/russorat/influxdb-data-examples/master/com/coindesk/bitcoin/currentprice-annotated.csv")
 ```
+
+```
+import "experimental/csv"
+
+csv.from(url: "https://raw.githubusercontent.com/russorat/influxdb-data-examples/master/iss/iss-now-annotated.csv")
+```
