@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-07-23T23:50:01UTC" count="1319">
+<stations created="2021-07-24T01:00:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -37,7 +37,7 @@
   <station id="13009" lat="8" lon="-38" elev="0" name="Lambada" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13010" lat="0" lon="0" elev="0" name="Soul" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14040" lat="-8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="14041" lat="-8" lon="55" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="14041" lat="-8" lon="55" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14043" lat="-12" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14047" lat="-4" lon="57" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -53,7 +53,7 @@
   <station id="21418" lat="38.767" lon="148.653" elev="0" name="NORTHEAST TOKYO - 450 NM NE of Tokyo, JP" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="21419" lat="44.401" lon="155.653" name="KURIL ISLANDS - 209NM SE of Kuril Is. " owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="21420" lat="28.891" lon="135.022" name="SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="21d13" lat="30.533" lon="152.132" elev="0" name="SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="21d13" lat="37.2481" lon="163.4830" elev="0" name="SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="22101" lat="37.23" lon="126.02" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="22102" lat="34.8" lon="125.77" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="22103" lat="34" lon="127.5" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -68,14 +68,14 @@
   <station id="23006" lat="4" lon="90" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23007" lat="8" lon="90" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23008" lat="12" lon="90" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23009" lat="15" lon="90" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="23009" lat="15" lon="90" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="23010" lat="-4" lon="81" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23011" lat="15" lon="65" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23012" lat="8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="23013" lat="4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="23012" lat="8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="23013" lat="4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23014" lat="2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23015" lat="0" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="23016" lat="-2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="23015" lat="0" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="23016" lat="-2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23017" lat="-4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="23217" lat="3.798" lon="91.701" name="Bay of Bengal IN3" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23218" lat="10.165" lon="88.5" name="Bay of Bengal IN4" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
@@ -140,7 +140,7 @@
   <station id="41037" lat="33.988" lon="-77.362" elev="0" name="Wrightsville Beach Offshore, NC (ILM3)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41038" lat="34.141" lon="-77.715" elev="0" name="Wrightsville Beach Nearshore, NC (ILM2)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41040" lat="14.542" lon="-53.341" elev="0" name="NORTH EQUATORIAL ONE- 470 NM East of Martinique" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="41041" lat="14.4399" lon="-47.8890" elev="0" name="NORTH EQUATORIAL TWO - 890 NM East of Martinique " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41041" lat="14.4455" lon="-47.8937" elev="0" name="NORTH EQUATORIAL TWO - 890 NM East of Martinique " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41043" lat="21.03" lon="-64.79" elev="0" name="NE PUERTO RICO - 170 NM NNE of San Juan, PR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41044" lat="21.582" lon="-58.63" elev="0" name="NE ST MARTIN - 330 NM NE St Martin Is" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41046" lat="23.822" lon="-68.384" elev="0" name="EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -170,7 +170,7 @@
   <station id="41421" lat="23.382" lon="-63.907" name="NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41425" lat="28.633" lon="-65.65" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="41x01" lat="32.7411" lon="-46.4836" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41x01" lat="32.7472" lon="-46.4877" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42001" lat="25.942" lon="-89.657" elev="0" name="MID GULF - 180 nm South of Southwest Pass, LA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42002" lat="26.055" lon="-93.646" elev="0" name="WEST GULF - 207 NM East of Brownsville, TX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42003" lat="25.925" lon="-85.615" elev="0" name="East GULF - 208 NM West of Naples, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -467,7 +467,7 @@
   <station id="46407" lat="42.705" lon="-128.835" name="NEWPORT - 210NM West of Coos Bay, OR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46408" lat="49.652" lon="-169.895" name=" NIKOLSKI - 212 NM South of Umnak Is, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46409" lat="55.318" lon="-148.547" name="SOUTHEAST KODIAK - 210 NM SE of Kodiak, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="46410" lat="57.644" lon="-143.734" name="SOUTH CORDOVA 188NM SSE of Cordova, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46410" lat="57.644" lon="-143.734" name="SOUTH CORDOVA 188NM SSE of Cordova, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46411" lat="39.335" lon="-127.07" name="Mendocino - 150 NM West of  Mendocino Bay, CA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46413" lat="48.038" lon="-173.917" name="SOUTH-SOUTHEAST ADAK - 243 NM SSE of Adak Island, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46414" lat="53.726" lon="-152.483" name="SOUTHEAST CHIRIKOF - 165 NM SE of Chirikof Island, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -561,7 +561,7 @@
   <station id="53006" lat="-12" lon="81" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="53009" lat="-12" lon="93" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="53040" lat="-8" lon="95" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="53056" lat="-5" lon="95" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="53056" lat="-5" lon="95" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="53057" lat="-2" lon="90" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="55012" lat="-15.664" lon="158.453" name="Coral Sea 1     -     1285km ENE of Townsville" owner="Australian Bureau of Meteorology" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="55015" lat="-46.956" lon="160.343" name="TASMAN SEA 1     -     1110km ESE of Hobart" owner="Australian Bureau of Meteorology" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -1202,7 +1202,7 @@
   <station id="sisw1" lat="48.321" lon="-122.831" elev="0" name="Smith Island, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="sixa2" lat="55.616" lon="-132.203" elev="7.5" name="Ship Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="sjnp4" lat="18.459" lon="-66.116" elev="1.3" name="9755371 - San Juan, La Puntilla, San Juan Bay, PR" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="sjom4" lat="42.098" lon="-86.494" elev="182" name="St. Joseph, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="sjom4" lat="42.098" lon="-86.494" elev="182" name="St. Joseph, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="sjsn4" lat="39.305" lon="-75.377" elev="6.3" name="8537121 - Ship John Shoal, NJ" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="skcf1" lat="27.921" lon="-82.445" elev="7.3" name="8726671 - Sparkman Channel Entrance, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="skta2" lat="59.45" lon="-135.327" elev="6.4" name="9452400 - Skagway, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
