@@ -63,7 +63,7 @@ jobs:
       with:
         ref: ${{ github.ref }}
     - name: Setup InfluxDB
-      uses: russorat/influxdb-action@v3
+      uses: influxdata/influxdb-action@v3
       with:
         influxdb_version: latest
         influxdb_org: influxdata
