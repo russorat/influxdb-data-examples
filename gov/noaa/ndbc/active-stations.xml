@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-08-05T12:30:02UTC" count="1319">
+<stations created="2021-08-05T13:10:02UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -37,7 +37,7 @@
   <station id="13009" lat="8" lon="-38" elev="0" name="Lambada" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13010" lat="0" lon="0" elev="0" name="Soul" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14040" lat="-8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="14041" lat="-8" lon="55" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="14041" lat="-8" lon="55" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14043" lat="-12" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14047" lat="-4" lon="57" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -71,11 +71,11 @@
   <station id="23009" lat="15" lon="90" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23010" lat="-4" lon="81" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23011" lat="15" lon="65" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23012" lat="8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="23013" lat="4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="23012" lat="8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="23013" lat="4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23014" lat="2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23015" lat="0" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="23016" lat="-2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="23015" lat="0" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="23016" lat="-2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23017" lat="-4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="23217" lat="3.798" lon="91.701" name="Bay of Bengal IN3" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23218" lat="10.165" lon="88.5" name="Bay of Bengal IN4" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
@@ -460,7 +460,7 @@
   <station id="46268" lat="34.022" lon="-118.578" elev="0" name="Topanga Nearshore, CA (103)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46269" lat="36.934" lon="-122.034" elev="0" name="Point Santa Cruz, CA (254)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46303" lat="49.02" lon="-123.43" elev="0" name="Southern Georgia Strait" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46304" lat="49.3" lon="-123.36" elev="0" name="Entrance To English Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="46304" lat="49.3" lon="-123.36" elev="0" name="Entrance To English Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46402" lat="50.978" lon="-163.948" name=" South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46403" lat="52.663" lon="-156.778" name="SOUTHEAST SHUMAGIN ISLAND - 186 NM SE of Shumagin Is, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46404" lat="45.848" lon="-128.775" name="WEST ASTORIA - 230 NM West of Astoria, OR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -1293,7 +1293,7 @@
   <station id="wbya1" lat="30.417" lon="-87.825" elev="0" name=" 8732828 - Weeks Bay, Mobile Bay, AL " owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="wdel1" lat="28.662" lon="-89.551" elev="0" name="Shell West Delta 143" owner="Shell Oil" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wdsv2" lat="36.977" lon="-76.315" name="8638614 - Willoughby Deguassing Station, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="webm1" lat="43.32" lon="-70.563" name="Webhannett River Inlet, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="webm1" lat="43.32" lon="-70.563" name="Webhannett River Inlet, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="welm1" lat="43.32" lon="-70.563" elev="3.5" name="8419317 - Wells, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="weqm1" lat="43.345" lon="-70.549" name="Skinner Mill, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wexm1" lat="43.337" lon="-70.549" elev="18.62" name="Laudholm Farm, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
