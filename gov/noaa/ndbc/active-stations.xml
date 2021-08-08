@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-08-08T10:20:01UTC" count="1318">
+<stations created="2021-08-08T10:40:01UTC" count="1318">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -515,7 +515,7 @@
   <station id="51208" lat="22.285" lon="-159.574" elev="0" name="Hanalei, Kauai, HI (202)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="51209" lat="-14.273" lon="-170.5" elev="0" name="Aunuu, American Samoa (189)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="51210" lat="21.477" lon="-157.756" elev="0" name="Kaneohe Bay, WETS, HI (225)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="51211" lat="21.297" lon="-157.959" elev="0" name="Pearl Harbor Entrance, HI (233)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="51211" lat="21.297" lon="-157.959" elev="0" name="Pearl Harbor Entrance, HI (233)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="51212" lat="21.323" lon="-158.149" elev="0" name="Barbers Point, Kalaeloa, HI (238)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="51213" lat="20.75" lon="-157.003" elev="0" name="Kaumalapau Southwest, Lanai, HI (239)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="51301" lat="8" lon="-155" elev="0" name="8N 155W" owner="NDBC" pgm="TAO" type="tao" seq="40"/>
