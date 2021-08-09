@@ -1,1 +1,1 @@
-iss,name=iss,source=http://api.open-notify.org/iss-now.json,type=satellite lat=51.5647,lon=-76.6092 1628534897000000000
+iss,name=iss,source=http://api.open-notify.org/iss-now.json,type=satellite lat=-10.3093,lon=18.4932 1628536529000000000
