@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-08-13T16:30:01UTC" count="1319">
+<stations created="2021-08-13T17:05:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -370,7 +370,7 @@
   <station id="46053" lat="34.241" lon="-119.839" elev="0" name="EAST SANTA BARBARA  - 12NM Southwest of Santa Barbara, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46054" lat="34.273" lon="-120.47" elev="0" name="WEST SANTA BARBARA  38 NM West of Santa Barbara, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46059" lat="38.094" lon="-129.951" elev="0" name="WEST CALIFORNIA - 357NM West of San Francisco, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="46060" lat="60.5910" lon="-148.0701" elev="0" name="WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46060" lat="60.5914" lon="-148.0697" elev="0" name="WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46061" lat="60.238" lon="-146.833" elev="0" name="Seal Rocks - Between Montague and Hinchinbrook Islands, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46066" lat="52.765" lon="-155.009" elev="0" name="SOUTH KODIAK - 310NM SSW of Kodiak, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46069" lat="33.677" lon="-120.213" elev="0" name="SOUTH SANTA ROSA IS. CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
