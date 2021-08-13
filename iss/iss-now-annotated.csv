@@ -2,6 +2,6 @@
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string
 #default,_result,,,,,,,,
 ,result,table,_time,_value,_field,_measurement,name,source,type
-,,0,2021-08-13T03:22:06Z,50.9733,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
-,,1,2021-08-13T03:22:06Z,151.0602,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
+,,0,2021-08-13T03:44:08Z,-2.4438,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
+,,1,2021-08-13T03:44:08Z,-134.9037,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 
