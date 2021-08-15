@@ -1412,6 +1412,7 @@
 ,,0,2021-08-15T22:19:47Z,-4.3161,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,0,2021-08-15T22:40:36Z,-51.4569,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,0,2021-08-15T22:53:05Z,-34.0682,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
+,,0,2021-08-15T23:20:00Z,42.0556,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-07-21T16:41:26Z,137.7664,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-07-21T16:56:00Z,171.4226,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-07-21T17:10:39Z,-135.4368,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
@@ -2822,4 +2823,5 @@
 ,,1,2021-08-15T22:19:47Z,-68.7855,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-08-15T22:40:36Z,6.2293,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-08-15T22:53:05Z,66.946,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
+,,1,2021-08-15T23:20:00Z,138.0832,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 
