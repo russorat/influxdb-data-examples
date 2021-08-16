@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-08-16T02:35:02UTC" count="1319">
+<stations created="2021-08-16T02:50:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -880,7 +880,7 @@
   <station id="jlxa2" lat="58.298" lon="-134.405" elev="4.6" name="Juneau Library, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="jmla2" lat="58.286" lon="-134.39" elev="5.5" name="Juneau AML Dock" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="jmpn7" lat="34.213" lon="-77.786" elev="7.4" name="8658163 - Johnny Mercer Pier, Wrightsville Beach, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="jnea2" lat="58.298" lon="-134.411" elev="5.4" name="9452210 - Juneau, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="jnea2" lat="58.298" lon="-134.411" elev="5.4" name="9452210 - Juneau, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="jnga2" lat="58.291" lon="-134.394" elev="4.6" name="Juneau ANG Dock, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="jobp4" lat="17.944" lon="-66.238" name="Station 9, Jobos Bay Reserve, PR" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="joqp4" lat="17.93" lon="-66.211" name="Station 20, Jobos Bay Reserve, PR" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
