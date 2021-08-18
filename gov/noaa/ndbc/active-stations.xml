@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-08-18T14:35:01UTC" count="1318">
+<stations created="2021-08-18T14:50:01UTC" count="1318">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -37,7 +37,7 @@
   <station id="13009" lat="8" lon="-38" elev="0" name="Lambada" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13010" lat="0" lon="0" elev="0" name="Soul" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14040" lat="-8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="14041" lat="-8" lon="55" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="14041" lat="-8" lon="55" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="14043" lat="-12" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14047" lat="-4" lon="57" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -70,11 +70,11 @@
   <station id="23009" lat="15" lon="90" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23010" lat="-4" lon="81" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23011" lat="15" lon="65" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23012" lat="8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23013" lat="4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="23012" lat="8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="23013" lat="4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="23014" lat="2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23015" lat="0" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23016" lat="-2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="23015" lat="0" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="23016" lat="-2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="23017" lat="-4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="23217" lat="3.798" lon="91.701" name="Bay of Bengal IN3" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23218" lat="10.165" lon="88.5" name="Bay of Bengal IN4" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
@@ -587,7 +587,7 @@
   <station id="62081" lat="51" lon="-13.55" elev="0" name="K2 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62090" lat="53.127" lon="-11.2" elev="0" name="M1 - 50 NM West of Aran Islands" owner="Met Eireann" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62095" lat="53.04" lon="-15.53" elev="0" name="M6 - West Coast" owner="Met Eireann" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="62103" lat="49.9" lon="-2.9" elev="0" name="Channel Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="62103" lat="49.9" lon="-2.9" elev="0" name="Channel Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62105" lat="55.41" lon="-11.81" elev="0" name="K4 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62107" lat="50.102" lon="-6.1" elev="0" name="Sevenstones Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62114" lat="58.3" lon="0" name="Tartan &quot;A&quot; AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
