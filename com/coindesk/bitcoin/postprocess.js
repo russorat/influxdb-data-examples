@@ -109,7 +109,7 @@ points.forEach((point, index) => {
             }
         }
     });
-    lp += tagsLine + " " + fieldsLine + (point.time !== undefined ? ' ' + point.time : '');
+    lp += tagsLine + " " + fieldsLine + (point.timestamp !== undefined ? ' ' + point.timestamp : '');
     lpLines.push(lp)
 })
 
