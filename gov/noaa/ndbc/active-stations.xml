@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-08-26T18:20:01UTC" count="1318">
+<stations created="2021-08-26T18:45:01UTC" count="1318">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -120,7 +120,7 @@
   <station id="32403" lat="-23.163" lon="-72.037" name="91NM West of Antofagasta, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32404" lat="-32.123" lon="-73.799" name="120 NM NW of Valparaiso" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32411" lat="4.958" lon="-90.868" name="WEST PANAMA - 710 NM WSW of Panama City, Panama" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="32413" lat="-5.8346" lon="-127.0310" name="NORTHWEST LIMA - 1000 NM WNW of Lima, Peru" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="32413" lat="-5.8460" lon="-127.1770" name="NORTHWEST LIMA - 1000 NM WNW of Lima, Peru" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="32489" lat="2.998" lon="-79.101" name="Colombia   121NM SW of Buenaventura, Colombia" owner="DIMAR Colombia" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="32st0" lat="-22" lon="-85" elev="0" name="Stratus" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="34420" lat="-35.758" lon="-75.243" name="119NM NW of Concepcion, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
@@ -167,7 +167,7 @@
   <station id="41300" lat="15.85" lon="-57.467" name="West Indies" owner="Meteo France" pgm="International Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41420" lat="23.37" lon="-67.517" name="NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="41421" lat="23.373" lon="-63.902" name="NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41425" lat="28.6324" lon="-65.8913" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41425" lat="28.6144" lon="-66.0499" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41x01" lat="36.1158" lon="-46.2041" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42001" lat="25.942" lon="-89.657" elev="0" name="MID GULF - 180 nm South of Southwest Pass, LA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -734,7 +734,7 @@
   <station id="clkn7" lat="34.622" lon="-76.525" elev="4.6" name="Cape Lookout, NC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="clsm4" lat="42.471" lon="-82.877" elev="175" name="St. Clair Shores, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cman4" lat="38.968" lon="-74.96" elev="3.2" name="8536110 - Cape May, NJ" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="cmln3" lat="43.07" lon="-70.7" name="Coastal Marine Lab, New Castle, NH" owner="University of New Hampshire" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="cmln3" lat="43.07" lon="-70.7" name="Coastal Marine Lab, New Castle, NH" owner="University of New Hampshire" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="cmpo1" lat="41.547" lon="-83.015" elev="175" name="Camp Perry, OH" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cmti2" lat="41.73" lon="-87.538" elev="178.5" name="9087044 - Calumet Harbor, IL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cnbf1" lat="25.702" lon="-81.186" elev="0" name="Cannon Bay, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
@@ -921,7 +921,7 @@
   <station id="kp59" lat="47.467" lon="-87.883" name="Copper Harbor, MI" owner="NWS Central Region" pgm="Marine METAR" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kptn6" lat="40.811" lon="-73.765" elev="2.1" name="8516945 - Kings Point, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kptv2" lat="37.165" lon="-75.988" elev="2.6" name="8632200 - Kiptopeke, VA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="kscf" lat="29.116" lon="-91.871" name="South Marsh 268A (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="kscf" lat="29.116" lon="-91.871" name="South Marsh 268A (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kspr" lat="28.599" lon="-91.206" name="Ship Shoal 178 (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ksqe" lat="28.083" lon="-90.819" name="Ship Shoal 354 (Fieldwood Energy)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ktnf1" lat="29.819" lon="-83.594" elev="1.8" name="Keaton Beach, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
