@@ -13,7 +13,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 220,7,,,,,,,,29.3,27.2,,,,"22107",33.08,126.03,0,"","Korean Meteorological Administration","International Partners","buoy","y","n","n","n",1630026000000000000
 100,4,,,,,,,,23.4,25.8,,,,"22108",36.25,125.75,0,"","Korean Meteorological Administration","International Partners","buoy","y","n","n","n",1630026000000000000
 32,2.7,3.7,,,,,,,27.8,,,,,"23017",-4,67,0,"","Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction","International Partners","buoy","y","n","n","n",1630022400000000000
-97,9,,,,,,,,24.1,,,,,"31004",-14,-32,0,"Salvador","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","n","n","n","n",1630026000000000000
+97,9,,,,,,,,24.1,,,,,"31004",-14,-32,0,"Salvador","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1630026000000000000
 161,8.5,9.5,,,,,,,27,,,,,"31006",4,-23,0,"NE Extension","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1630022400000000000
 121,6.4,8.1,,,,,1012.4,,25.6,,,,,"31007",0,-23,0,"Jazz","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1630022400000000000
 150,7,,,,,,1022.6,,16.3,18.3,9.3,,,"32ST0",-22,-85,0,"Stratus","Woods Hole Oceanographic Institution","IOOS Partners","fixed","y","n","y","n",1630024200000000000
