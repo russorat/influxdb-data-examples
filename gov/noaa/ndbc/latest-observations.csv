@@ -18,7 +18,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 70,5,7,0.9,5,,82,1013.3,0.6,28.1,28.9,,,,"41056",18.261,-65.464,0,"Vieques Island, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1630036800000000000
 130,3,5,,,,,1020.5,,27.7,,,,,"41064",34.207,-76.949,0,"Onslow Bay Outer, NC (LEJ3)","CORMP","IOOS Partners","buoy","y","n","y","n",1630037280000000000
 ,,,1.1,5,,143,,,,28.8,,,,"41065",32.802,-79.619,0,"Capers Nearshore Waves (CAP2WAVE)","CORMP","IOOS Partners","buoy","y","n","n","n",1630036080000000000
-,,,1,8,5,143,,,,29.2,,,,"41108",33.722,-78.016,0,"Wilmington Harbor, NC - (200)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1630035000000000000
+,,,1,8,5,143,,,,29.2,,,,"41108",33.722,-78.016,0,"Wilmington Harbor, NC - (200)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1630035000000000000
 ,,,1,8,6.1,130,,,,28.3,,,,"41110",34.142,-77.715,0,"Masonboro Inlet, ILM2, NC (150)","CORMP","IOOS Partners","buoy","y","n","n","n",1630037220000000000
 ,,,1.3,9,4.5,110,,,27,27.5,,,,"41112",30.709,-81.292,0,"Offshore Fernandina Beach, FL (132)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1630036800000000000
 ,,,0.9,8,4.5,110,,,,28,,,,"41113",28.4,-80.533,0,"Cape Canaveral Nearshore, FL (143)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1630036560000000000
@@ -449,7 +449,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,0,1,,,,,1010.1,,13.5,16.6,,,,"MEYC1",36.605,-121.889,2.4,"9413450 - Monterey, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1630035360000000000
 360,1.5,2.6,,,,,1014.1,,,28.7,,,,"MGIP4",17.97,-67.046,0.9,"9759110 - Magueyes Islands, PR","NOS","NOS/CO-OPS","fixed","y","n","n","n",1630036080000000000
 130,2.6,4.6,,,,,1013.1,,25.9,31.3,,,,"MGPT2",29.682,-94.985,4.3,"8770613 - Morgans Point, TX","NOS","NOS/CO-OPS","fixed","y","n","n","n",1630036080000000000
-110,1,1.5,,,,,1014,,24.6,30.5,,,,"MGZP4",18.218,-67.159,3.1,"9759394 - Mayaguez, PR","NOS","NOS/CO-OPS","fixed","y","n","n","n",1630036080000000000
+110,1,1.5,,,,,1014,,24.6,30.5,,,,"MGZP4",18.218,-67.159,3.1,"9759394 - Mayaguez, PR","NOS","NOS/CO-OPS","fixed","n","n","n","n",1630036080000000000
 310,1.5,3.1,,,,,1011.6,,26.1,,24.7,,,"MHBT2",27.828,-97.201,0,"8775283 - MODA, TX","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1630036080000000000
 230,2.1,2.6,,,,,,,,,,,,"MHRN6",40.641,-74.162,2.6,"8519532 - Mariners Harbor, NY","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1630036080000000000
 ,,,,,,,1014.8,,25.1,28.9,,,,"MISP4",18.09,-67.939,1.3,"9759938 - Mona Island, PR","NOS","NOS/CO-OPS","fixed","y","n","n","n",1630031760000000000
