@@ -3855,7 +3855,7 @@
 ,,3800,2021-08-27T04:00:00Z,y,station_currents,ndbc,41056,"Vieques Island, PR",Caribbean Integrated Coastal Ocean Observing System (CarICoos),IOOS Partners,buoy
 ,,3801,2021-08-27T04:08:00Z,n,station_currents,ndbc,41064,"Onslow Bay Outer, NC (LEJ3)",CORMP,IOOS Partners,buoy
 ,,3802,2021-08-27T03:48:00Z,n,station_currents,ndbc,41065,Capers Nearshore Waves (CAP2WAVE),CORMP,IOOS Partners,buoy
-,,3803,2021-08-27T03:30:00Z,y,station_currents,ndbc,41108,"Wilmington Harbor, NC - (200)",SCRIPPS,IOOS Partners,buoy
+,,3803,2021-08-27T03:30:00Z,n,station_currents,ndbc,41108,"Wilmington Harbor, NC - (200)",SCRIPPS,IOOS Partners,buoy
 ,,3804,2021-08-27T04:07:00Z,n,station_currents,ndbc,41110,"Masonboro Inlet, ILM2, NC (150)",CORMP,IOOS Partners,buoy
 ,,3805,2021-08-27T04:00:00Z,y,station_currents,ndbc,41112,"Offshore Fernandina Beach, FL (132)",SCRIPPS,IOOS Partners,buoy
 ,,3806,2021-08-27T03:56:00Z,n,station_currents,ndbc,41113,"Cape Canaveral Nearshore, FL (143)",SCRIPPS,IOOS Partners,buoy
@@ -6434,7 +6434,7 @@
 ,,6349,2021-08-27T03:36:00Z,y,station_met,ndbc,MEYC1,"9413450 - Monterey, CA",NOS,NOS/CO-OPS,fixed
 ,,6350,2021-08-27T03:48:00Z,y,station_met,ndbc,MGIP4,"9759110 - Magueyes Islands, PR",NOS,NOS/CO-OPS,fixed
 ,,6351,2021-08-27T03:48:00Z,y,station_met,ndbc,MGPT2,"8770613 - Morgans Point, TX",NOS,NOS/CO-OPS,fixed
-,,6352,2021-08-27T03:48:00Z,y,station_met,ndbc,MGZP4,"9759394 - Mayaguez, PR",NOS,NOS/CO-OPS,fixed
+,,6352,2021-08-27T03:48:00Z,n,station_met,ndbc,MGZP4,"9759394 - Mayaguez, PR",NOS,NOS/CO-OPS,fixed
 ,,6353,2021-08-27T03:48:00Z,y,station_met,ndbc,MHBT2,"8775283 - MODA, TX",NOAA NOS PORTS,NOS/CO-OPS,fixed
 ,,6354,2021-08-27T03:48:00Z,y,station_met,ndbc,MHRN6,"8519532 - Mariners Harbor, NY",NOAA NOS PORTS,NOS/CO-OPS,fixed
 ,,6355,2021-08-27T02:36:00Z,y,station_met,ndbc,MISP4,"9759938 - Mona Island, PR",NOS,NOS/CO-OPS,fixed
