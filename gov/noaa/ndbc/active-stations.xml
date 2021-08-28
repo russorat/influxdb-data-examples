@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-08-28T22:15:01UTC" count="1318">
+<stations created="2021-08-28T22:35:01UTC" count="1318">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -715,7 +715,7 @@
   <station id="cdrf1" lat="29.136" lon="-83.029" elev="1.8" name="Cedar Key, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cdxa2" lat="56.001" lon="-134.136" elev="15.2" name="Cape Decision MXAK, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="cecc1" lat="41.746" lon="-124.184" elev="2.9" name="9419750 - Crescent City, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="cfwm1" lat="44.657" lon="-67.205" elev="3.8" name=" 8411060 - Cutler Farris Wharf, ME" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="cfwm1" lat="44.657" lon="-67.205" elev="3.8" name=" 8411060 - Cutler Farris Wharf, ME" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cgcl1" lat="28.791" lon="-89.056" elev="0" name="Cognac" owner="Shell Oil" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="chao3" lat="43.351" lon="-124.337" name="9432780 - Charleston, OR" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="chav3" lat="18.335" lon="-64.92" elev="1.1" name="9751639 - Charlotte Amalie, VI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
