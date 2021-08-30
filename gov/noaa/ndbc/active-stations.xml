@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-08-30T16:35:02UTC" count="1318">
+<stations created="2021-08-30T17:05:01UTC" count="1318">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -789,7 +789,7 @@
   <station id="eroa2" lat="58.971" lon="-135.221" elev="17" name="Eldred Rock, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="erxa2" lat="58.971" lon="-135.221" elev="16.8" name="Eldred Rock MXAK, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="espp4" lat="18.094" lon="-65.471" elev="2" name="9752695 - Esperanza, Viequez Island, PR" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="evmc1" lat="36.811" lon="-121.779" name="Vierra Mouth, Elkhorn Slough Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="evmc1" lat="36.811" lon="-121.779" name="Vierra Mouth, Elkhorn Slough Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="faio1" lat="41.764" lon="-81.281" elev="176.4" name="9063053 - Fairport, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="fbis1" lat="32.685" lon="-79.888" elev="3" name="Folly Island, SC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="fffc1" lat="38.195" lon="-122.033" name="First Mallard" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
