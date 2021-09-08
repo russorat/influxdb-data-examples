@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-09-08T23:20:01UTC" count="1319">
+<stations created="2021-09-08T23:35:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -936,7 +936,7 @@
   <station id="kwnw3" lat="44.465" lon="-87.496" elev="179.3" name="9087069 - Kewaunee MET, WI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kxih" lat="29.18" lon="-94.521" name="High Island 179A AWOS (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kxpy" lat="29.123" lon="-90.202" name="Port Fourchon Heliport (Era Helicopters)" owner="Federal Aviation Administration" pgm="Marine METAR" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="kywf1" lat="24.556" lon="-81.808" elev="2.2" name="8724580 - Key West, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="kywf1" lat="24.556" lon="-81.808" elev="2.2" name="8724580 - Key West, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lamv3" lat="18.318" lon="-64.724" elev="1.1" name="9751381 - Lameshur Bay, St John, VI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lapw1" lat="47.913" lon="-124.637" elev="3.1" name="9442396 - La Push, WA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lbrf1" lat="25.484" lon="-81.133" elev="0" name="Broad River Lower, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
