@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-09-11T15:20:01UTC" count="1319">
+<stations created="2021-09-11T15:40:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -898,7 +898,7 @@
   <station id="kdlp" lat="29.121" lon="-89.547" name="West Delta 27A (AngloSuisse Offshore Partners)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="keca2" lat="55.331" lon="-131.625" elev="4.6" name="9450460 - Ketchikan, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kehc" lat="28.429" lon="-92.878" name="East Cameron 278B (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="keir" lat="28.634" lon="-91.489" name="Eugene Island 215 (McMoRan Oil &amp; Gas)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="keir" lat="28.634" lon="-91.489" name="Eugene Island 215 (McMoRan Oil &amp; Gas)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kemk" lat="27.819" lon="-94.323" name="East Breaks 165 (SandRidge Energy)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kexa2" lat="55.352" lon="-131.684" elev="3.7" name="Ketchikan Harbor, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kgbk" lat="27.204" lon="-92.203" name="Garden Banks 783 / Magnolia TLP (W&amp;T Offshore)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
