@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-09-16T08:40:02UTC" count="1319">
+<stations created="2021-09-16T08:55:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -634,7 +634,7 @@
   <station id="adka2" lat="51.861" lon="-176.637" elev="5.2" name="9461380 - Adak Island, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="agcm4" lat="42.621" lon="-82.527" elev="177" name="9014070 - Algonac, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="agmw3" lat="44.608" lon="-87.433" elev="179" name="Algoma City Marina, WI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="agxc1" lat="33.716" lon="-118.246" name="9410647 - Angels Gate, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="agxc1" lat="33.716" lon="-118.246" name="9410647 - Angels Gate, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ajxa2" lat="58.287" lon="-134.398" elev="4.6" name="Juneau AJ Dock, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="alia2" lat="56.898" lon="-154.247" elev="4.6" name="9457804 - Alitak, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="alxn6" lat="44.331" lon="-75.934" elev="74.9" name="8311062 - Alexandria Bay, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -663,7 +663,7 @@
   <station id="bara9" lat="17.591" lon="-61.821" elev="1.3" name="9761115 - Barbuda, AG" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="barn6" lat="42.345" lon="-79.595" elev="174" name="Barcelona Harbor, NY" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="batn6" lat="40.701" lon="-74.014" elev="2" name="8518750 - The Battery, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="baxc1" lat="33.766" lon="-118.24" name="9410691 - Los Angeles Badger Avenue Bridge" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="baxc1" lat="33.766" lon="-118.24" name="9410691 - Los Angeles Badger Avenue Bridge" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="bbnf1" lat="25.601" lon="-80.306" elev="0" name="BBCW8" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="bdrn4" lat="40.082" lon="-74.87" elev="2.2" name="8539094 - Burlington, Delaware River, NJ" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bdsp1" lat="39.98" lon="-75.079" name="8546252 - Bridesburg, PA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1096,7 +1096,7 @@
   <station id="pcnt2" lat="28.446" lon="-96.396" elev="0" name="8773701 - Port O'Connor, Matagorda Bay, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcoc1" lat="38.056" lon="-122.039" elev="2.8" name="9415144 - Port Chicago, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pegf1" lat="26.086" lon="-80.116" name="8722956 - Port Everglades, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="pfdc1" lat="33.735" lon="-118.241" name="9410666 - Los Angeles Pier 400, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="pfdc1" lat="33.735" lon="-118.241" name="9410666 - Los Angeles Pier 400, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="pfxc1" lat="33.747" lon="-118.215" name="9410670 - Los Angeles Pier F, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pgbp7" lat="13.428" lon="144.796" elev="12.8" name="1631428 - Pago Bay, Guam" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pgxa2" lat="57.016" lon="-134.618" elev="6.1" name="Point Gardner" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1146,7 +1146,7 @@
   <station id="ptww1" lat="48.111" lon="-122.76" elev="5.1" name="9444900 - Port Townsend, WA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pvdr1" lat="41.786" lon="-71.383" elev="3.869" name="8453662 - Providence Visibility, RI" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pwaw3" lat="43.388" lon="-87.867" elev="178" name="Port Washington, WI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="pxac1" lat="33.764" lon="-118.265" name="9410690 - Los Angeles Berth 161, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="pxac1" lat="33.764" lon="-118.265" name="9410690 - Los Angeles Berth 161, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="pxoc1" lat="37.798" lon="-122.393" elev="0" name="9414311 - San Francisco Pier 1, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pxsc1" lat="37.803" lon="-122.397" elev="1.54" name="9414296 - Pier 17, San Francisco Bay, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="qptr1" lat="41.586" lon="-71.407" elev="1.6" name="8454049 - Quonset Point, RI" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
