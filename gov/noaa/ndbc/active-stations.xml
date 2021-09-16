@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-09-16T04:20:01UTC" count="1319">
+<stations created="2021-09-16T04:45:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1129,7 +1129,7 @@
   <station id="psbm1" lat="44.905" lon="-66.983" elev="6.7" name="8410140 - Eastport, ME" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pscm4" lat="43.42" lon="-82.54" elev="190" name="Port Sanilac, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pslc1" lat="35.169" lon="-120.754" elev="0" name="9412110 - Port San Luis, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="pstl1" lat="28.932" lon="-89.407" elev="3.6" name="8760922 - Pilot's Station East, SW Pass, LA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="pstl1" lat="28.932" lon="-89.407" elev="3.6" name="8760922 - Pilot's Station East, SW Pass, LA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="pstn6" lat="42.691" lon="-79.048" elev="179.18" name="9063028 - Sturgeon Point, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="psxc1" lat="33.768" lon="-118.226" name="9410692 - Los Angeles Pier S" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ptac1" lat="38.955" lon="-123.741" elev="17.4" name="Point Arena, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
