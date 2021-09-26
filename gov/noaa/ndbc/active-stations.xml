@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-09-26T19:35:02UTC" count="1319">
+<stations created="2021-09-26T19:50:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -236,7 +236,7 @@
   <station id="44039" lat="41.138" lon="-72.655" elev="0" name="Central Long Island Sound" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44040" lat="40.956" lon="-73.58" elev="0" name="Western Long Island Sound" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44041" lat="37.204" lon="-76.777" elev="0" name="Jamestown, VA" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="44042" lat="38.033" lon="-76.335" elev="0" name="Potomac, MD" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
+  <station id="44042" lat="38.033" lon="-76.335" elev="0" name="Potomac, MD" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44043" lat="39.152" lon="-76.391" elev="0" name="Patapsco, MD" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44056" lat="36.2" lon="-75.714" elev="0" name="Duck FRF, NC" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44057" lat="39.54" lon="-76.074" elev="0" name="Susquehanna, MD" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
