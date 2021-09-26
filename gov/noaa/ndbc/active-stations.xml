@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-09-26T14:10:01UTC" count="1319">
+<stations created="2021-09-26T14:35:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -71,10 +71,10 @@
   <station id="23010" lat="-4" lon="81" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23011" lat="15" lon="65" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23012" lat="8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="23013" lat="4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="23013" lat="4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="23014" lat="2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23015" lat="0" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23016" lat="-2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="23016" lat="-2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="23017" lat="-4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23217" lat="3.798" lon="91.701" name="Bay of Bengal IN3" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23218" lat="10.165" lon="88.5" name="Bay of Bengal IN4" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1224,7 +1224,7 @@
   <station id="sraw1" lat="45.572" lon="-122.379" name="SATURN River Station #08, Camas, WA" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="sref1" lat="25.352" lon="-81.1" name="Shark River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="srfw1" lat="46.185" lon="-123.188" name="SATURN River Station #05" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="srlm4" lat="45.773" lon="-84.137" elev="177" name="Spectacle Reef Light, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="srlm4" lat="45.773" lon="-84.137" elev="177" name="Spectacle Reef Light, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="srst2" lat="29.683" lon="-94.033" elev="0.7" name="Sabine Pass, TX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ssbn7" lat="33.838" lon="-78.484" elev="0" name="Sunset Beach Nearshore Waves (SUN2WAVE)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="stdm4" lat="47.184" lon="-87.225" elev="182.9" name="Stannard Rock, MI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
