@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-09-27T18:20:01UTC" count="1319">
+<stations created="2021-09-27T18:45:02UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -120,7 +120,7 @@
   <station id="32403" lat="-23.163" lon="-72.037" name="91NM West of Antofagasta, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32404" lat="-32.123" lon="-73.799" name="120 NM NW of Valparaiso" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32411" lat="4.958" lon="-90.868" name="WEST PANAMA - 710 NM WSW of Panama City, Panama" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="32413" lat="-5.5141" lon="-141.6680" name="NORTHWEST LIMA - 1000 NM WNW of Lima, Peru" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="32413" lat="-5.4805" lon="-141.8280" name="NORTHWEST LIMA - 1000 NM WNW of Lima, Peru" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="32489" lat="2.998" lon="-79.101" name="Colombia   121NM SW of Buenaventura, Colombia" owner="DIMAR Colombia" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="32st0" lat="-22" lon="-85" elev="0" name="Stratus" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="34420" lat="-35.758" lon="-75.243" name="119NM NW of Concepcion, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
@@ -167,7 +167,7 @@
   <station id="41300" lat="15.85" lon="-57.467" name="West Indies" owner="Meteo France" pgm="International Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41420" lat="25.8211" lon="-67.3098" name="NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41421" lat="23.373" lon="-63.902" name="NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41425" lat="28.2408" lon="-69.5224" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41425" lat="28.3525" lon="-69.6232" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41x01" lat="33.1431" lon="-45.2191" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42001" lat="25.942" lon="-89.657" elev="0" name="MID GULF - 180 nm South of Southwest Pass, LA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -668,7 +668,7 @@
   <station id="bdrn4" lat="40.082" lon="-74.87" elev="2.2" name="8539094 - Burlington, Delaware River, NJ" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bdsp1" lat="39.98" lon="-75.079" name="8546252 - Bridesburg, PA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bdvf1" lat="25.478" lon="-80.989" elev="0" name="Broad River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="bdxc1" lat="38.317" lon="-123.071" name="Bodega, CA" owner="University of California Davis, Bodega Marine Laboratory" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="bdxc1" lat="38.317" lon="-123.071" name="Bodega, CA" owner="University of California Davis, Bodega Marine Laboratory" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="bepb6" lat="32.374" lon="-64.701" elev="3.4" name="2695540 - Bermuda, St. Georges Island, BM" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="bftn7" lat="34.717" lon="-76.671" elev="1.9" name="8656483 - Beaufort, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bgcf1" lat="26.404" lon="-81.881" elev="0" name="BCP - Big Carlos Pass, FL" owner="COMPS (University of South Florida)" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -803,7 +803,7 @@
   <station id="fpkg1" lat="32.035" lon="-80.903" elev="2.9" name="8670870 - Fort Pulaski, GA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="fpst2" lat="28.936" lon="-95.294" elev="0" name="8772471 - Freeport SPIP, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="fptm4" lat="45.619" lon="-86.66" elev="184" name="Fairport, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="fpxc1" lat="37.807" lon="-122.466" name="Fort Point, CA" owner="University of California Davis, Bodega Marine Laboratory" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="fpxc1" lat="37.807" lon="-122.466" name="Fort Point, CA" owner="University of California Davis, Bodega Marine Laboratory" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="frcb6" lat="32.37" lon="-64.695" name="2695535 - Bermuda, Ferry Reach Channel, BM" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="frdf1" lat="30.675" lon="-81.465" elev="2.2" name="8720030 - Fernandina Beach, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="frdp4" lat="18.335" lon="-65.631" name="9753216 - Fajardo, PR" owner="Puerto Rico Seismic Network" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1293,7 +1293,7 @@
   <station id="wbya1" lat="30.417" lon="-87.825" elev="0" name=" 8732828 - Weeks Bay, Mobile Bay, AL " owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="wdel1" lat="28.662" lon="-89.551" elev="0" name="Shell West Delta 143" owner="Shell Oil" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wdsv2" lat="36.977" lon="-76.315" name="8638614 - Willoughby Deguassing Station, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="webm1" lat="43.32" lon="-70.563" name="Webhannett River Inlet, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="webm1" lat="43.32" lon="-70.563" name="Webhannett River Inlet, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="welm1" lat="43.32" lon="-70.563" elev="3.5" name="8419317 - Wells, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="weqm1" lat="43.345" lon="-70.549" name="Skinner Mill, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wexm1" lat="43.337" lon="-70.549" elev="18.62" name="Laudholm Farm, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
