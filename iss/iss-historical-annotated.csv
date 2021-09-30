@@ -2,7 +2,6 @@
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string
 #default,_result,,,,,,,,
 ,result,table,_time,_value,_field,_measurement,name,source,type
-,,0,2021-08-31T17:06:57Z,26.5829,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,0,2021-08-31T17:35:51Z,25.3186,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,0,2021-08-31T17:52:51Z,-25.1041,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,0,2021-08-31T18:23:52Z,-21.0547,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
@@ -1794,7 +1793,7 @@
 ,,0,2021-09-30T15:45:31Z,26.7922,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,0,2021-09-30T16:31:17Z,-24.9881,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,0,2021-09-30T17:04:18Z,-15.3008,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
-,,1,2021-08-31T17:06:57Z,115.7589,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
+,,0,2021-09-30T17:34:17Z,51.1388,lat,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-08-31T17:35:51Z,-116.9351,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-08-31T17:52:51Z,-77.4731,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-08-31T18:23:52Z,55.1204,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
@@ -3586,4 +3585,5 @@
 ,,1,2021-09-30T15:45:31Z,-41.1917,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-09-30T16:31:17Z,125.2667,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 ,,1,2021-09-30T17:04:18Z,-97.2943,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
+,,1,2021-09-30T17:34:17Z,8.2653,lon,iss,iss,http://api.open-notify.org/iss-now.json,satellite
 
