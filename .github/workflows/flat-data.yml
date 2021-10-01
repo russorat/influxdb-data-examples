@@ -1,7 +1,5 @@
 name: fetch-data
 on:
-  schedule:
-    - cron: "*/15 * * * *"
   workflow_dispatch: {}
   push:
     paths:
