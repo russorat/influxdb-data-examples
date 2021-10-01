@@ -2,7 +2,7 @@
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string
 #default,_result,,,,,,,,,
 ,result,table,_time,_value,_field,_measurement,code,crypto,description,symbol
-,,0,2021-10-01T10:55:00Z,40859.3314,price,coindesk,EUR,bitcoin,Euro,&euro;
-,,1,2021-10-01T10:55:00Z,35051.8335,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
-,,2,2021-10-01T10:55:00Z,47311.5917,price,coindesk,USD,bitcoin,United States Dollar,&#36;
+,,0,2021-10-01T11:16:00Z,40839.6358,price,coindesk,EUR,bitcoin,Euro,&euro;
+,,1,2021-10-01T11:16:00Z,35003.3005,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
+,,2,2021-10-01T11:16:00Z,47302.972,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 
